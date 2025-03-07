@@ -1,0 +1,2 @@
+![[Calamity Graveyard.png]]
+The Calamity Graveyard is a large pit of tar that contains bones from [[Calamity Beasts]] killed during the war of cinders. [[Squirrelfolk]] draw their necromantic powers from here, and harvest special _Corpseberries_ that grow in the skeletal remains.

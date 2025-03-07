@@ -1,0 +1,2 @@
+![[Hanging Gardens.png]]
+The Hanging Gardens rest in a shallow cenote behind a waterfall whose walls are covered with foliage that drapes down to touch the water's surface. Lily pads float freely on the surface of the pool, and [[frogfolk]] come to bask in the sun at midday when the sun is right above its opening.

@@ -1,0 +1,1 @@
+A smoldering bog that never burns out. It marks the end of [[Valley]] and the beginning of the mystery lands beyond.

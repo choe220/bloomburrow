@@ -1,0 +1,1 @@
+An untamed and uncultivated wilderness where unique plants can be harvested. Though much of the food grown here isn't as reﬁned as that grown in [[Valley]], [[rabbitfolk]] learn to take in the varietals found here and cross them with other varieties to increase yield, flavor, or size. It is a source of many of the seeds that grow in [[Valley]].
