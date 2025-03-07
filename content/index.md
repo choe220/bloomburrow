@@ -8,3 +8,5 @@ Site Index
 [[History]]
 [[Valley|List of Notable Places]]
 [[Animalfolk|Animalfolk of Bloomburrow]]
+[[Community]]
+[[Cuisine]]
