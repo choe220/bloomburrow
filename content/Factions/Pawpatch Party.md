@@ -1,0 +1,1 @@
+The **Pawpatch Party** is a group of powerful and adeptly trained [[rabbitfolk]] who patrol [[Valley]] to protect from [[Calamity Beasts]]. These warriors are known for their antler helmets and large, metal-coated weapons and shields. Members of the Pawpatch Party are renowned for their skill and perseverance, owing in large part to their excellent provisions.

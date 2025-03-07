@@ -1,0 +1,23 @@
+[[Valley]] and Bloomburrow are home to many species of Animalfolk.
+
+# Animalfolk of Bloomburrow
+[[Badgerfolk]]
+[[Batfolk]]
+[[Beaverfolk]]
+[[Birdfolk]]
+[[Foxfolk]]
+[[Frogfolk]]
+[[Hedgehogs]]
+[[Lizardfolk]]
+[[Minkfolk]]
+[[Molefolk]]
+[[Mousefolk]]
+[[Otterfolk]]
+[[Possumfolk]]
+[[Rabbitfolk]]
+[[Raccoonfolk]]
+[[Ratfolk]]
+[[Skunkfolk]]
+[[Squirrelfolk]]
+[[Turtlefolk]]
+[[Weaselfolk]]

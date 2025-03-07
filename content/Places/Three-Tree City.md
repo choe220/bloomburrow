@@ -10,4 +10,4 @@ The Docklands is a sprawling array of docks and rafts off the bank of the [[Long
 
 ## The Quilted District
 ![[Quilted District.png]]
-The Quilted District lies in the city's heart. It is named after its vast quilted banner symbolizing the union of all animalfolk, featuring squares from every species that visits the city.
+The Quilted District lies in the city's heart. It is named after its vast quilted banner symbolizing the union of all [[animalfolk]], featuring squares from every species that visits the city.
