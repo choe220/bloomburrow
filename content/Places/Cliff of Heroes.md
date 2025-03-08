@@ -1,0 +1,1 @@
+A cliff on the highest of hills in [[Valley]] scaled by its bravest inhabitants, especially teams of [[mousefolk]], to demonstrate their willpower and teamwork. It is said the Cliff is so high that the sun never sets on it. The path to the cliff is rife with bandits.

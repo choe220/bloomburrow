@@ -1,3 +1,0 @@
-Villages are close-knit and hospitable to outsiders. The folk of [[Valley]] tend to live with their family. They are known to marry cross-species. All the [[animalfolk]] of Valley cherish their young, and springtime is particularly rich with new life. Quilting is a common communal activity, and communities and adventuring parties have a shared quilt composed of squares contributed by each family or party member, respectively.
-
-[[Frogfolk]] play a game called [[bubbleball]]. [[Otterfolk]] play an enigmatic game known as [[otterball]], which the other [[animalfolk]] have little understanding of. Each species of [[animalfolk]] has an insect they often pair with and a construct mount they ride.

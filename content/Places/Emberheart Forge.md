@@ -1,0 +1,1 @@
+A weapon forge in the heart of [[Rockface Village]]. Used to forge melt down [[Ironroot Tree|Ironroot Trees]] into steel.

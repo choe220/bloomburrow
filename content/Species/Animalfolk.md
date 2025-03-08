@@ -1,4 +1,5 @@
 [[Valley]] and Bloomburrow are home to many species of Animalfolk.
+![[Species Sizes.png]]
 
 # Animalfolk of Bloomburrow
 [[Badgerfolk]]

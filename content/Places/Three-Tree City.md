@@ -1,3 +1,7 @@
+---
+aliases:
+  - Three Tree City
+---
 ![[Three-Tree City.png]]
 Three Tree City, or Three Trees City, is the largest settlement in Valley; a forest city formed by the intertwining of an ancient oak, sycamore, and willow tree on the banks of the [[Long River]], which runs the length of [[Valley]] from its source above the forests and empties into the vast marshlands. Buildings and fungal paths decorate its canopy and trunk. The city was founded to harmonize with nature, which is apparent in its organic layout. The city is divided into several districts.
 

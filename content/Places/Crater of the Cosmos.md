@@ -1,0 +1,1 @@
+A vast obsidian crater left by an unknown cosmic event created eons ago. At night, water condenses on the surface, causing the sky to be refracted like a prism on every wall of the crater. [[Batfolk]] venture to the bottom of this planetarium-esque structure to stare into the cosmic reﬂections and deep into space, channeling the light of the moon into magical energy.

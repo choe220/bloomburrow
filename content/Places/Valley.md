@@ -8,7 +8,6 @@ The rural and vibrant home of the plane's animalfolk. A small region in the lar
 [[Oakhollow Village]]
 [[The Hanging Gardens]]
 [[The Knowledge Ossuary]]
-[[Goodhill]]
 [[The Whispering Grove]]
 [[Lupinflower Village]]
 [[Lilypad Village]]
@@ -16,8 +15,7 @@ The rural and vibrant home of the plane's animalfolk. A small region in the lar
 [[Forest of Iron]]
 [[Cactus Point Village]]
 [[Mudflat Village]]
-[[Calamity Graveyard]]
-
+[[Calamity Graveyard]] 
 [[Ancient Seedbed]]
 [[Burning Bog]]
 [[Cliff of Heroes]]
@@ -42,3 +40,82 @@ The rural and vibrant home of the plane's animalfolk. A small region in the lar
 [[Tip of the World]]
 [[Whiskervale]]
 [[Outer Woods]]
+
+# Flora
+- Bee balm
+- Beets
+- Blackberries
+- Bluebells
+- Blueberries
+- Cabbages, farmed in colder seasons and used as constructs
+- Carraway
+- Carrots, farmed in colder seasons.
+- Cattails
+- Chamomile
+- Cherries
+- Chili peppers
+- Cinnamon
+- Cloves
+- Cornflower
+- **[[Corpseberry]]**, a rare fruit that grows from the corpses of [[Calamity Beasts]], sometimes collected by [[Squirrelfolk|Squirrels]]. It has "nectar the flavor of strength and skin as fragile as life."
+- Cranberries
+- Crested irises
+- Daisies
+- Dandelions
+- Elderberries
+- Ferns
+- Firethorn
+- Foxglove
+- Fungi
+    - Bracket fungi, used as stairs.
+    - Mildew
+    - Mushrooms
+- Glowberries
+- Grasses
+    - Pampas grass
+- Hedge Parsley
+- Holly
+- [[Ironroot Tree|Ironroot trees]], which have metal sap. The sap has a low smelting point, and it is commonly used across [[animalfolk]] weapons and armor. (see [[Forest of Iron]])
+- Ivy
+- Kingcups
+- Lily of the valley
+- Lupinflowers
+- Mallow
+- Marigold
+- Mint
+- Mosses
+- Mugwort
+- Mustard
+- Nettles
+- Nightshade
+- Partridge berry
+- Peas
+- Peppers, farmed in the spring and summer.
+- Pinecones
+- Potatoes
+- Primrose
+- Radishes, farmed in colder seasons.
+- Raspberries
+- Rhubarb
+- Rice
+- Seaweed
+- Soapworts
+- Spring onions, farmed in the spring and summer.
+- Squash
+- Starflower
+- Strawberries
+- Sumac
+- Sunflowers
+- Sweet alyssum
+- Tomatoes, farmed in the spring and summer.
+- Trees
+    - **[[Ironroot Tree|Ironroot Trees]]** that produce ironsap, a substance that can be used in place of metal.
+    - Juniper
+    - Oaks, many of which are massive and hundreds of seasons old
+    - Sycamore
+    - Willow
+- Turnips
+- Water lilies
+- Watercress
+- Witch-hazels
+- Yarrow

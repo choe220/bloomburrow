@@ -1,0 +1,1 @@
+Sits between [[Haymeadow]] and [[Dewrim]] on the main road near [[Goodhill]]. Composed almost exclusively of [[frogfolk]], the rest of its population is diverse, despite a lack of [[squirrelfolk]].
