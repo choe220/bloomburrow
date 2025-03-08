@@ -10,3 +10,5 @@ Site Index
 [[Animalfolk|Animalfolk of Bloomburrow]]
 [[Community]]
 [[Cuisine]]
+[[Music]]
+[[Industry]]
