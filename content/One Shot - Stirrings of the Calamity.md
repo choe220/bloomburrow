@@ -80,7 +80,7 @@ The **Council Chamber of Three-Tree City** is abuzz with tension. A grand hall w
 
 As the players step closer, **Matron Fleetpaw** spots them first and gestures for silence.
 
-🔹 **Matron Fleetpaw:**  
+🔹 **Matron Fleetpaw:**
 🗣️ _“Ah. Our summoned guests have arrived.”_ _(She gestures for them to step forward.)_  
 🗣️ _“Heroes, scouts, wanderers—whatever you are, we need fresh eyes upon this matter.”_
 
@@ -105,7 +105,7 @@ As the party approaches the **Calamity Graveyard**, the air grows thick with an 
 - **Whispers on the Wind**  
     A sudden gust of air carries something unnatural—a **whisper**, distant yet distinct, curling through the trees like a dying breath. Those who strain to listen might hear words in an ancient, indecipherable tongue. Those with magical senses or strong intuition will feel it: **this place is waking up**.
     
-- **Shifting Tar and Restless Remains**  
+- **Shifting Tar and Restless Remains**
     At the heart of the graveyard, the **tar pit** churns sluggishly, forming unnatural ripples. Every so often, **a bone rises to the surface**, slick and stained, before slowly sinking again. Watching closely, the pattern isn’t random—it’s **as if something beneath is moving**, testing the surface, waiting. A successful Arcana or Religion check would reveal that this isn’t natural decay; **someone is disturbing the cycle of death here.**
     
 - **A Flicker of Motion**  

@@ -57,7 +57,7 @@ The rural and vibrant home of the plane's animalfolk. A small region in the lar
 - Cinnamon
 - Cloves
 - Cornflower
-- **[[Corpseberry]]**, a rare fruit that grows from the corpses of [[Calamity Beasts]], sometimes collected by [[Squirrelfolk|Squirrels]]. It has "nectar the flavor of strength and skin as fragile as life."
+- [[Corpseberry]]
 - Cranberries
 - Crested irises
 - Daisies
