@@ -1,8 +1,11 @@
-## **Brambles Random Encounters**
+[[#Brambles Random Encounters]]
+[[#Underground Tunnels – Random Encounters]]
+
+### Brambles Random Encounters
 
 (_Roll 1d12 or choose based on the story’s flow_)
 
-### **On the Road (More Structured Encounters)**
+#### On the Road (More Structured Encounters)
 
 |**d12**|**Encounter**|
 |---|---|
@@ -21,7 +24,7 @@
 
 ---
 
-### **Off-Trail (More Unpredictable Encounters)**
+#### Off-Trail (More Unpredictable Encounters)
 
 | **d12** | **Encounter**                                                                                                                                                                                                                                                    |
 | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -38,7 +41,7 @@
 | **11**  | **The Bonebound Herald** – A **massive stag skeleton**, animated by Weaving, **lumbers through the Brambles**. It does not attack unless provoked, but its empty eye sockets glow with **faint green light**.                                                    |
 | **12**  | **The Rift in the Brambles** – A section of the forest is **split open**, revealing **a swirling void of threads and darkness**. It pulses, occasionally shifting between **this world and another**.                                                            |
 
-### **Brambles River Travel – Random Encounters**
+#### Brambles River Travel – Random Encounters
 
 (_Roll 1d12 or choose based on the story’s flow_)
 
@@ -46,7 +49,7 @@ Traveling the **Long River** through the Brambles can be deceptively peaceful. T
 
 ---
 
-### **On the River (While Boating or Drifting)**
+##### On the River (While Boating or Drifting)
 
 |**d12**|**Encounter**|
 |---|---|
@@ -65,7 +68,7 @@ Traveling the **Long River** through the Brambles can be deceptively peaceful. T
 
 ---
 
-### **Along the Riverbank (Stopping or Foraging)**
+##### Along the Riverbank (Stopping or Foraging)
 
 |**d12**|**Encounter**|
 |---|---|
@@ -81,3 +84,49 @@ Traveling the **Long River** through the Brambles can be deceptively peaceful. T
 |**10**|**Moss-Covered Statues** – A pair of old **stone otterfolk statues**, half-submerged in the mud, face the river as if **watching for something**.|
 |**11**|**Echo of a Flood** – As the party steps onto the shore, the air **grows humid**, and for a moment, they see **the land as it was before the Calamity**—thriving, untouched, whole. Then, the vision **snaps away**, leaving only ruins.|
 |**12**|**Traveler in Trouble** – A young **beaverfolk engineer**, Delka, is frantically **repairing a makeshift raft** after her previous one was **ripped apart by something unseen**. She offers a reward if the party helps her **leave before nightfall**.|
+
+---
+
+### Underground Tunnels – Random Encounters
+
+(_Roll 1d12 or choose based on the story’s flow_)
+
+The tunnels beneath Valley are ancient, winding, and woven with forgotten Weaving magic. They range from tight burrows dug by industrious folk to grand, crumbling passageways left behind by civilizations long past. Some are **natural**, carved by underground rivers, while others are **unnatural**, shaped by hands that no longer walk the surface. The deeper one goes, the more the air **hums** with something old—something waiting.
+
+---
+
+#### Tight Burrows & Winding Tunnels (Shallow Depths)
+
+|**d12**|**Encounter**|
+|---|---|
+|**1**|**Echoing Footsteps** – As the party walks, **their own footsteps** seem to lag behind, just a beat out of sync. Then, **an extra set** joins in.|
+|**2**|**Glowing Veins** – The walls of the tunnel **pulse faintly**, lined with veins of **bioluminescent roots**. If disturbed, the light flickers—**and something else flickers in response** deeper in the tunnel.|
+|**3**|**Tunnel Collapse!** – A **sudden cave-in** threatens to bury the party! Dodging the falling debris is possible, but they’ll need to **dig themselves out** or find another path.|
+|**4**|**Whispering Fissures** – A crack in the tunnel wall **whispers** faint, incomprehensible words. Listening too closely causes the listener to hear **their own voice answering back**.|
+|**5**|**Mosslight Motes** – Small glowing **spores** drift lazily through the air, illuminating the tunnels. If inhaled, a character gains **vivid memories of a life that is not their own** for 1 minute.|
+|**6**|**Old Weaver Remnants** – The tunnel walls are covered in **fragments of intricate Weaving**, long abandoned. They **still hold power**, but activating them might awaken **something watching from beyond**.|
+|**7**|**The Gnawing** – Strange **bite marks** cover the tunnel walls—**perfect circles**, as if something **chewed through** solid stone.|
+|**8**|**Burrow Beast** – A **massive mole-like creature**, blind but **with heightened hearing**, crosses paths with the party. It’s not immediately hostile, but **sudden noise** will send it into a frenzy.|
+|**9**|**Waterlogged Path** – The tunnel floor is **flooded**, and a slow **current** tugs at anything stepping into it. Something **large** moves beneath the surface.|
+|**10**|**Lost Firelight** – A tiny **glowing lantern**, untouched by age, sits on a stone ledge. It casts **no shadow**, and if picked up, **it refuses to go out**—even when submerged in water.|
+|**11**|**The Watcher’s Sigil** – An old **marking** is carved into the stone, deep and deliberate. It’s **not in any known language**, and staring too long makes **the viewer feel watched**.|
+|**12**|**Sudden Silence** – All sound suddenly **vanishes** for a brief moment—no footsteps, no breathing, no movement. Then, it all comes rushing back.|
+
+---
+
+#### Deep Tunnels & Forgotten Passages (Ancient Depths)
+
+|**d12**|**Encounter**|
+|---|---|
+|**1**|**The Sleeping Bones** – A **massive skeleton**, partially buried in the tunnel wall, is revealed by crumbling dirt. It’s **too large** to be any known creature.|
+|**2**|**The Stitched Ones** – Deep scratches in the walls form **stitched Weaving patterns**, and occasionally, they **shift** when not being watched.|
+|**3**|**Hollow Wind** – A cold gust of air blows through the tunnels, carrying a **distant voice** that mutters **a name from the party’s past**.|
+|**4**|**Weaver’s Loom** – An old, **abandoned loom** sits in the center of the tunnel. It still holds a piece of **unfinished threadwork**, pulsating faintly.|
+|**5**|**The Bonebound Stalker** – Shadows seem **too long** in this part of the tunnel, and every time the party turns a corner, the **echo of slow, dragging footsteps** follows.|
+|**6**|**Chasm of Eyes** – A deep ravine splits the tunnel floor, stretching far below. Strange **glowing orbs** flicker from the darkness—**watching**.|
+|**7**|**The Forgotten Shrine** – A **half-buried altar**, dedicated to **a lost Weaver god**, sits untouched in the tunnel. If approached, the air **grows thick with unseen threads**.|
+|**8**|**Living Stone** – The tunnel walls **shift** slightly when no one is looking, as if breathing. Touching them gives the distinct sensation of **something waking up**.|
+|**9**|**Shadow Twin** – A character’s **shadow lingers** unnaturally long, moving **half a second behind them**. Then, for just a moment, it moves **on its own**.|
+|**10**|**The Threadbound Guardian** – An old **sentinel**, woven from ancient Weaving magic, stands in the path. It does not move—**until someone speaks**.|
+|**11**|**Footsteps in the Dark** – Without warning, the ground trembles with the weight of **many unseen feet** running past. Nothing is there—except for the feeling of something **brushing against their legs**.|
+|**12**|**The Weeping Walls** – The tunnel walls **drip with an inky substance**, forming **shifting symbols**. If collected, the ink retains **a faint heartbeat**.|
