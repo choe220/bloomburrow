@@ -89,53 +89,26 @@
 | Yarrow (bundle)          | 4 cp      | Used in healing tonics.                                        |
 
 ---
+
 # Specialty Goods
 |**Item**|**Price**|**Effect**|
 |---|---|---|
-
 | **Mystic & Rare Baked Goods** |     |     |
-
 |Fey-Touched Acorn Scone|15 cp|Eating this scone grants the ability to understand the Sylvan language for 1 hour.|
 |Dreambloom Seedloaf|20 cp|Infused with dreambloom petals, consuming this loaf grants a vivid prophetic dream the next time you sleep.|
 |Emberberry Tart|25 cp|Slightly spicy, this tart warms the body and grants resistance to cold damage for 1 hour.|
 |Sun-Kissed Honey Cake|30 cp|Blessed by a druid, eating this cake restores 1d4 HP once per long rest.|
 |**Enchanted Drinks & Preserves**|||
 |Moonlit Chamomile Tea|12 cp|Brewed under a full moon, this tea grants advantage on Wisdom (Insight) checks for 1 hour.|
-
 |Frostberry Mint Tea|15 cp|Grants immunity to mild poisons and numbs pain for 1 hour.|
-
-|   |   |   |
-|---|---|---|
 |Feywild Treacle|35 cp|A drop of this glowing treacle enhances the senses, granting darkvision (30 ft) for 1 hour.|
-
-|   |   |   |
-|---|---|---|
 |Everchill Blackberry Punch|25 cp|Always cold to the touch, drinking it grants resistance to fire damage for 1 hour.|
-
-|   |   |   |
-|---|---|---|
 |Sparkroot Brew|40 cp|This fizzy drink boosts the drinker’s reaction time, granting a +1 bonus to initiative for 1 hour.|
-
-|   |   |   |
-|---|---|---|
 |**Rare & Magical Herbs**|||
-
-|   |   |   |
-|---|---|---|
 |Ironroot Sap (Purified)|50 cp|Used in enchanting weapons, reinforcing armor, or crafting durable items.|
-
-|   |   |   |
-|---|---|---|
 |Whispering Moss|60 cp|This moss, when placed in the ear, grants the ability to communicate telepathically with creatures within 30 ft for 10 minutes.|
-
-|   |   |   |
-|---|---|---|
 |Glowberry Essence (Vial)|75 cp|This bioluminescent liquid can be used as a light source or mixed into potions to enhance their potency.|
-
-|   |   |   |
-|---|---|---|
 |Starflower Petals|80 cp|Used in alchemy, adding these petals to a healing potion increases the dice healed by one step (e.g., 2d4 → 2d6).|
-
-|   |   |   |
-|---|---|---|
 |Corpseberry Extract (Highly Illegal)|120 cp|Grants visions of the past when consumed, but has a chance of causing exhaustion.|
+___
+
