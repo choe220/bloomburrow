@@ -14,6 +14,8 @@ Batfolk community consists of rigid roles and deﬁned hierarchies. One of thei
 At the end of each of the four moon phases, batfolk across [[Valley]] host a celebration known as a [[Lunar Paean]]. Other [[animalfolk]] who were born during the same lunar pattern as when the ritual is held often join the festivities. Fortunes are performed for those present, and children born during the current phase are assigned star charts, while their parents are given guidance to help raise them. The celebration concludes with a moon-watching ceremony where families can look out into the ﬁrmament and assign stars to recently deceased loved ones or ﬁnd the stars of their ancestors.
 
 Twice a day, mirrors reﬂect light from the sun and moon into a massive opaline gem embedded in the center of the [[Lighttrap Spires]]. There, an elder batfolk trades their sight for vision of the realms beyond [[Valley]]. Their eyes are subsequently ﬁlled with a unique nebula-like pattern that marks their ascension to the upper ranks of the priesthood.
+
+
 # Batfolk Traits
 **Creature Type:** Humanoid
 **Size:** Small (about 2–11 inches tall)

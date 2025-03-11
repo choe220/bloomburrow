@@ -14,4 +14,5 @@ The greatest among the [[Calamity Beasts|Calamities]], Wildsear turned the tide 
 >Back in the age of [[Lily Emberseed|Lily]], Wildsear was known as the Season of Flames. Its flames would burn forever. That was until [[Lily Emberseed|Lily]] took the [[Seedflame]] from them. Now it is a shadow of its past self, though still more than a match for the people of [[Valley]]. The fact that a creature could live so long, depleted and weakened, is a testament to its former strength and the enduring power of a [[Calamity Beasts|Calamity Beast]]. It does make me ask the question, 'Where did that power go?' Did it return to the plane with [[Lily Emberseed|Lily]]? Or is it still out there, like all nature, awaiting a return as the seasons change?
 >- Bello, bard of the [[Brambles]]
 
-![[Wildsear.png]]
+![[Species/Calamity Beasts/Images/Wildsear.png]]
+![[Wildsear 1.png]]

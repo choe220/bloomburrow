@@ -1,2 +1,2 @@
-![[Beaverfolk.png]]
+![[Species/Images/Beaverfolk.png]]
 
