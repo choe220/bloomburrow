@@ -111,4 +111,11 @@
 |Starflower Petals|80 cp|Used in alchemy, adding these petals to a healing potion increases the dice healed by one step (e.g., 2d4 → 2d6).|
 |Corpseberry Extract (Highly Illegal)|120 cp|Grants visions of the past when consumed, but has a chance of causing exhaustion.|
 ___
-
+# Magic Items
+| Item                       | Rarity   | Cost     |
+| -------------------------- | -------- | -------- |
+| [[Brightblade]]            | Rare     | 4,000 GP |
+| [[Cragflame]]              | Artifact | –        |
+| [[Moonstone Weapon]]       | Uncommon | 400 GP   |
+| [[Feather of Flight]]      | Uncommon | 400 GP   |
+| [[Tempest Trapper's Suit]] | Uncommon | 300 GP   |
