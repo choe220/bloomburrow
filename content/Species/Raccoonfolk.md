@@ -1,4 +1,5 @@
 ![[Raccoonfolk.png]]
+
 Raccoons are one of the [[animalfolk]] of Bloomburrow, known for their love for trash and proficiency with improvised weapons. At their best, raccoonfolk are strong-willed, adventurous, and entertaining. At their worst, they are scatterbrained, solitary, and impulsive. They are free-spirited wanderers, collectors, and entertainers allowing their whims and desire for self-discovery to take them on adventures all over [[Valley]]. They tend to have strong memories, but short attention spans. Raccoonfolk history and culture are passed down orally.
 
 Rather than settling down in [[Three-Tree City]] or elsewhere, raccoonfolk spend their life on the move, acquiring a hoard of objects along the way. Wherever their paws take them, raccoonfolk bring mementos from their journeys

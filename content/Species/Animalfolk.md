@@ -22,3 +22,4 @@
 [[Squirrelfolk]]
 [[Turtlefolk]]
 [[Weaselfolk]]
+[[Snakefolk]]

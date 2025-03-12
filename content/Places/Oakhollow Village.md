@@ -13,7 +13,7 @@ Despite its peaceful atmosphere, Oakhollow is no stranger to the eerie presence 
 # Locations
 ## The Swaying Bough
 A rustic and welcoming inn at the heart of Oakhollow, built into the trunk of a massive oak. Its walls are adorned with carved wooden reliefs telling old Valley tales, and a great stone hearth crackles with warmth year-round. Travelers stop in for acorn bread, mushroom stew, and a mug of sweet root ale, while locals gather to trade stories beneath the glow of fireflies in hanging lanterns.
-Innkeeper - [[hedgehogfolk]]
+Innkeeper - [[Hedgehogs|Hedgehog]]
 Rates:
 **Common Room Cot** – 3 silver per night (cozy but shared with other travelers)
 **Simple Burrow** – 8 silver per night (a snug, earthen room with a straw-stuffed mattress)

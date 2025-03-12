@@ -1,3 +1,4 @@
+![[Cuisine.png]]
 Each [[animalfolk]] species has its own unique food culture that favors distinct flavors and ingredients. Typically, [[animalfolk]] are vegetarians, though some, like [[otterfolk]], eat ﬁsh, while insects are occasionally enjoyed as part of larger meals. Known dishes served in [[Valley]] include:
 
 - Acorn scones

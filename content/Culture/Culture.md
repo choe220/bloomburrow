@@ -6,3 +6,4 @@ An index of various culture related pages.
 - [[Weaving]]
 - [[Astronomy]]
 - [[Classes]]
+- [[Backgrounds]]
