@@ -2,7 +2,9 @@
 aliases:
   - bird
   - birds
+  - birdfolk
 ---
+![[Plumecreed Mentor.png]]
 Birdfolk houses are known as Perches, typically found high up in trees or on stilts. Birdfolk help connect the [[animalfolk]], carrying mail, delivering aid, and even transporting other animals across [[Valley]].
 
 At their best, birdfolk are chivalrous, stalwart, and selﬂess. Raised to be staunch idealists, birdfolk see themselves as natural leaders among the [[animalfolk]] in [[Valley]]. They often form adventuring parties alongside other species, where they declare themselves as leaders and assert themselves through grandiose speeches. At their worst, birdfolk are self-important, stubborn, and patronizing. They are highly concerned with their physical appearance and social status. Birdfolk in larger villages will even congregate at speciﬁc times, in bath houses called preeneries, to take a break from their work and keep up their appearances.
@@ -13,7 +15,6 @@ A revered birdfolk tradition known as the **[[Plumecreed]]** is a risky flight
 
 ![[Birdfolk.png]]
 ![[Birdfolk2.png]]
-![[Plumecreed Mentor.png]]
 
 Subspecies:
 - Crows

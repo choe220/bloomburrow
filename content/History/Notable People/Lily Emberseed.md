@@ -12,3 +12,4 @@ Lily Emberseed, originally known as Lily of Valley, was a [[mousefolk]] champi
 
 ![[Statue of Lily.png]]
 *Statue of Lily*
+

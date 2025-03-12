@@ -2,6 +2,7 @@
 aliases:
   - badger
   - badgers
+  - badgerfolk
 ---
 ![[Badgerfolk.png]]
 

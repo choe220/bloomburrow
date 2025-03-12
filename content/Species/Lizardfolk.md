@@ -2,6 +2,7 @@
 aliases:
   - lizard
   - lizards
+  - lizardfolk
 ---
 ![[Lizardfolk.png]]
 
@@ -23,7 +24,6 @@ Subspecies:
 **Speed:** 25 feet
 
 ---
-
 As a Lizardfolk, you have these special traits.
 
 _**Adrenaline Rush.**_ You can take the Dash action as a Bonus action. When you do so, you gain a number of Temporary Hit Points equal to your Proficiency Bonus.

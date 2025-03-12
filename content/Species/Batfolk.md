@@ -2,6 +2,8 @@
 aliases:
   - bats
   - Bats
+  - bat
+  - batfolk
 ---
 ![[Batfolk.png]]
 ![[Batfolk2.png]]

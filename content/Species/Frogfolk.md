@@ -2,6 +2,7 @@
 aliases:
   - frog
   - frogs
+  - frogfolk
 ---
 ![[Frogfolk.png]]
 Frogs are one of the [[animalfolk]] of [[Valley]], known for their prowess with water magic, and for being curious and intelligent. Most of [[Valley|Valley's]] frogfolk live in [[Fountainport]] They possess a unique culture of augury, which allows them a limited understanding of the future. Frogfolk augurs use their knowledge of nature to divine the movement of [[Calamity Beasts]] and the shifting seasons in [[Valley]]. Adept augurs can see exact movements seconds or even minutes in advance. Because of their skill in preventing disaster, they are highly respected by the [[animalfolk]] of [[Valley]], though this same quality also makes them prone to pessimism and dire proclamations of doom. Some frogfolk, acting upon their foresight, bring doom upon themselves. However, this never prevents them from using their skills to help keep [[Valley]] and other animals safe.
