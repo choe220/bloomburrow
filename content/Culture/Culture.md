@@ -5,3 +5,4 @@ An index of various culture related pages.
 - [[Cuisine]]
 - [[Weaving]]
 - [[Astronomy]]
+- [[Classes]]

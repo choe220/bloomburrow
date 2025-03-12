@@ -1,11 +1,11 @@
 [[#Brambles Random Encounters]]
 [[#Underground Tunnels – Random Encounters]]
 
-### Brambles Random Encounters
+# Brambles Random Encounters
 
 (_Roll 1d12 or choose based on the story’s flow_)
 
-#### On the Road (More Structured Encounters)
+## On the Road (More Structured Encounters)
 
 |**d12**|**Encounter**|
 |---|---|
@@ -24,7 +24,7 @@
 
 ---
 
-#### Off-Trail (More Unpredictable Encounters)
+## Off-Trail (More Unpredictable Encounters)
 
 | **d12** | **Encounter**                                                                                                                                                                                                                                                    |
 | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -41,7 +41,7 @@
 | **11**  | **The Bonebound Herald** – A **massive stag skeleton**, animated by Weaving, **lumbers through the Brambles**. It does not attack unless provoked, but its empty eye sockets glow with **faint green light**.                                                    |
 | **12**  | **The Rift in the Brambles** – A section of the forest is **split open**, revealing **a swirling void of threads and darkness**. It pulses, occasionally shifting between **this world and another**.                                                            |
 
-#### Brambles River Travel – Random Encounters
+## Brambles River Travel – Random Encounters
 
 (_Roll 1d12 or choose based on the story’s flow_)
 
@@ -49,7 +49,7 @@ Traveling the **Long River** through the Brambles can be deceptively peaceful. T
 
 ---
 
-##### On the River (While Boating or Drifting)
+### On the River (While Boating or Drifting)
 
 |**d12**|**Encounter**|
 |---|---|
@@ -68,7 +68,7 @@ Traveling the **Long River** through the Brambles can be deceptively peaceful. T
 
 ---
 
-##### Along the Riverbank (Stopping or Foraging)
+### Along the Riverbank (Stopping or Foraging)
 
 |**d12**|**Encounter**|
 |---|---|
@@ -87,7 +87,7 @@ Traveling the **Long River** through the Brambles can be deceptively peaceful. T
 
 ---
 
-### Underground Tunnels – Random Encounters
+## Underground Tunnels – Random Encounters
 
 (_Roll 1d12 or choose based on the story’s flow_)
 
@@ -95,7 +95,7 @@ The tunnels beneath Valley are ancient, winding, and woven with forgotten Weavin
 
 ---
 
-#### Tight Burrows & Winding Tunnels (Shallow Depths)
+### Tight Burrows & Winding Tunnels (Shallow Depths)
 
 |**d12**|**Encounter**|
 |---|---|
@@ -114,7 +114,7 @@ The tunnels beneath Valley are ancient, winding, and woven with forgotten Weavin
 
 ---
 
-#### Deep Tunnels & Forgotten Passages (Ancient Depths)
+### Deep Tunnels & Forgotten Passages (Ancient Depths)
 
 |**d12**|**Encounter**|
 |---|---|

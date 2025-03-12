@@ -17,7 +17,7 @@ This is a land of **tradition and change**, of old magic and new ambitions. A la
 And today, whether by fate or by choice, **your story is about to be woven into the fabric of [[Valley]] itself.**
 
 # Site Index
-- [[index]]
+- [[Valley]]
 - [[History]]
 - [[Valley|List of Notable Places]]
 - [[Animalfolk|Animalfolk of Bloomburrow]]
