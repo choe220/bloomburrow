@@ -24,3 +24,4 @@ Bloomburrow has no natural seasons. Instead, seasons are brought on by the appea
 | The Season of Flames      | [[Wildsear]]            |
 | The Season of Long Night  | [[Maha]]                |
 | The Season of Salt        | [[Ygra]]                |
+[[Baleful Strix]]
