@@ -28,3 +28,4 @@ Bloomburrow has no natural seasons. Instead, seasons are brought on by the appea
 [[Baleful Strix]]
 [[Fecund Greenshell]]
 [[Hivespine Wolverine]]
+[[Swarm of Huskbursters]]
