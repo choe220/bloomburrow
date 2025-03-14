@@ -1,6 +1,7 @@
 ---
 aliases:
   - Calamity Beast
+  - Calamities
 ---
 Calamity Beasts are huge, non-sapient creatures that bring seasonal changes and weather variations. They wreak disaster on an unprecedented scale while they move through the landscape. They are essentially living seasons, and every bit as much part of nature as the [[animalfolk]].
 
@@ -16,10 +17,10 @@ Bloomburrow has no natural seasons. Instead, seasons are brought on by the appea
 ## Valley Seasons
 | Season                        | Calamity Beast          |
 | ----------------------------- | ----------------------- |
-| Spring                        | [[Beza]]                |
-| Summer                        | [[The Sun Hawk]]        |
-| Autumn                        | [[The Evercoat Ursine]] |
-| Winter                        | [[The Blizzard Elk]]    |
+| [[Season of Spring\|Spring]]  | [[Beza]]                |
+| [[Season of Summer\|Summer]]  | [[The Sun Hawk]]        |
+| [[Season of Autumn\|Autumn]]  | [[The Evercoat Ursine]] |
+| [[Season of Winter\|Winter]]  | [[The Blizzard Elk]]    |
 | The [[Season of Deep Waters]] | [[Eluge]]               |
 | The [[Season of Flames]]      | [[Wildsear]]            |
 | The [[Season of Long Night]]  | [[Maha]]                |
