@@ -13,6 +13,7 @@ The foundation of the mousefolk community is their large families, which are typ
 Mousefolk are expert at using spells to augment their speed and strength. They use a form of weaving known as blurring, where they move so fast that they appear as stuttering afterimages, giving the impression that there are many mousefolk attacking their enemy. They are known to ride wicker constructs. Their insect companions are often fireflies.
 
 Generations before the Omenpath Era, the mousefolk [[Lily Emberseed]] repelled the [[Calamity Beasts]], ending the [[History#War of Cinders|War of Cinders]].
+
 # Mousefolk Traits
 **Creature Type:** Humanoid
 **Size:** Small (about 3–7 inches tall)

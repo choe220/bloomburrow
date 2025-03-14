@@ -22,6 +22,7 @@ The rural and vibrant home of the plane's animalfolk. A small region in the lar
 | [[Haymeadow]]             |
 | [[Kell's Ridge]]          |
 | [[Lighttrap Spires]]      |
+| [[Lilyglow Pond]]         |
 | [[Lilypad Village]]       |
 | [[Long River]]            |
 | [[Lupinflower Village]]   |

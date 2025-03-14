@@ -1,1 +1,0 @@
-Sits between [[Haymeadow]] and [[Dewrim]] on the main road near [[Goodhill]]. Composed almost exclusively of [[frogfolk]], the rest of its population is diverse, despite a lack of [[squirrelfolk]]. Every creature that lives in Pondside is expected to contribute meaningfully to the community's well-being.

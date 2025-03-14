@@ -1,0 +1,4 @@
+Bubbleball is a fast-paced [[Frogfolk]] game played in shallow water, where players use their webbed hands and feet to keep a buoyant, air-filled pod bouncing between them while attempting to land it in the opposing team’s goal—a floating ring of reeds. The game requires agility, precision, and teamwork, with players leaping, diving, and even using their sticky tongues to redirect the ball midair.
+
+# Gameplay
+Each round, players make an **Acrobatics (Dexterity) or Athletics (Strength) check** to keep the ball in play. Special moves, such as using a **tongue grab (Sleight of Hand or Dexterity save)** or a **power shot (Attack roll with proficiency if proficient in a thrown weapon)** adds tactical depth. If a team fails three consecutive checks, the ball lands in the opposing goal, scoring a point. A game typically lasts until a set score (e.g., **three points**).

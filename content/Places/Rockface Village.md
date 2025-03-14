@@ -1,2 +1,0 @@
-![[Rockface Village.png]]
-A rocky village built into the side of a cliff face. Home to a majority of the [[lizardfolk]] and just to the north-west of the [[Forest of Iron]]. Home of the [[Emberheart Forge]], where the majority of weapons and armor are made within [[Valley]].
