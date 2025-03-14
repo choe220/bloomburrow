@@ -25,7 +25,12 @@ Bloomburrow has no natural seasons. Instead, seasons are brought on by the appea
 | The Season of Long Night  | [[Maha]]                |
 | The Season of Salt        | [[Ygra]]                |
 | The Season of Drought     | [[Sunspine Lynx]]       |
+| The Season of the Maze    | [[Lumra]]               |
 [[Baleful Strix]]
 [[Fecund Greenshell]]
 [[Hivespine Wolverine]]
 [[Swarm of Huskbursters]]
+[[Quaketusk Boar]]
+[[Rottenmouth Viper]]
+[[Sandcloud Harbinger]]
+
