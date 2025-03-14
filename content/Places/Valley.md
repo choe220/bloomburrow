@@ -42,6 +42,7 @@ The rural and vibrant home of the plane's animalfolk. A small region in the lar
 | [[Three-Tree City]]       |
 | [[Tip of the World]]      |
 | [[Whiskervale]]           |
+| [[Spinewood Thicket]]     |
 
 # Flora
 - Bee balm
