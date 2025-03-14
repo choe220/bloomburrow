@@ -9,5 +9,6 @@ An index of various culture related pages.
 - [[Backgrounds]]
 - [[Feats]]
 - [[Shop Items]]
+- [[Spells]]
 
 ![[Bartering.png]]
