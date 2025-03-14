@@ -1,3 +1,13 @@
+![[Scavenger Raccoonfolk.png]]
+
+|                  |                     |                |
+| ---------------- | ------------------- | -------------- |
+| [[#Archivist]]   | [[#Farmer]]         | [[#Innkeeper]] |
+| [[#Artisan]]     | [[#Fisherman]]      | [[#Merchant]]  |
+| [[#Caretaker]]   | [[#Fortune Teller]] | [[#Noble]]     |
+| [[#Chef]]        | [[#Guard]]          | [[#Sailor]]    |
+| [[#Criminal]]    | [[#Guide]]          | [[#Scavenger]] |
+| [[#Entertainer]] | [[#Hunter]]         | [[#Soldier]]   |
 #### Acolyte
 ---
 - **Ability Scores:** Intelligence, Wisdom, Charisma
@@ -16,7 +26,7 @@ You've devoted yourself to service in a [[Batfolk]] church or secluded grove. Th
 - **Tool Proficiency:** Calligrapher's Supplies
 - **Equipment:** _Choose A or B:_ (A) Book (history), Calligrapher's Supplies, Parchment (5 sheets), Robe, Scroll Case, Trinket, 12 GP; or (B) 50 GP
 
-You spent your formative years in the [[Knowledge Ossuary]], the subterranean archive of Bloomburrow's history kept by the [[Ratfolk]]. The [[Long River]] brings flotsam of artifacts and forgotten lore to the [[Knowledge Ossuary|Ossuary]], and you've spent many a restless night studying trinkets and scrolls. Your mind was sharpened in the archive, and you're ready to put your knowledge to use.
+You spent your formative years in the [[The Knowledge Ossuary]], the subterranean archive of Bloomburrow's history kept by the [[Ratfolk]]. The [[Long River]] brings flotsam of artifacts and forgotten lore to the [[The Knowledge Ossuary|Ossuary]], and you've spent many a restless night studying trinkets and scrolls. Your mind was sharpened in the archive, and you're ready to put your knowledge to use.
 
 #### Artisan
 ---

@@ -4,7 +4,7 @@ aliases:
   - rabbits
   - rabbitfolk
 ---
-![[Rabbitfolk.png]]
+![[Species/Images/Rabbitfolk.png]]
 Rabbits are one of the [[animalfolk]] of [[Valley]]. As a group, they are community-focused, and most of them are talented chefs and farmers that provide food to most of the creatures in [[Valley]]. Rabbitfolk chefs are renowned for their cooking, which is largely considered unrivaled by other [[animalfolk]]. Highly meticulous and dedicated, rabbitfolk are diligent workers with excellent hospitality skills and are highly sought after to help run inns. Rabbitfolk magic is used to support farming, growing plants, and restoring life to the vegetation around them. Even if other [[animalfolk]] view them as "boring" for their stable lives, the rabbitfolk are treated with respect for all the hard work they do.
 
 At their best, rabbitfolk are stalwart, hospitable, and peaceful. At their worst, they are stubborn, narrowminded, and cowardly. Rabbitfolk are conflict-averse as a rule, preferring to let trouble blow over them rather than stick their noses in it. Though they are typically paciﬁstic, rabbitfolk will still staunchly protect their homes and lands. When out adventuring, rabbitfolk typically serve as clerics. The most dedicated rabbitfolk can join the [[Pawpatch Party]].
@@ -13,7 +13,7 @@ Rabbitfolk lives revolve around their large families, called Fluffles, and their
 
 The [[Flower Garden]] is a sacred site to the rabbitfolk of Valley, and its path has been curated for centuries to ensure no flower is trampled. If a ﬂower begins to die, the petals and other parts are collected to decorate the homes of any rabbitfolk villages that witnessed the ﬂower's passing. Rabbitfolk houses are often built directly into the ground, with long burrows underneath and tall windmills designed as upside-down carrots on top.
 
-
+![[Rabbitfolk 1.png]]
 # Traits
 **Creature Type:** Humanoid
 **Size:** Small (about 1–1.5 feet tall)

@@ -1,1 +1,0 @@
-a rare fruit that grows from the corpses of [[Calamity Beasts]], sometimes collected by [[Squirrelfolk|Squirrels]]. It has "nectar the flavor of strength and skin as fragile as life."

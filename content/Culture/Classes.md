@@ -14,7 +14,7 @@
 
 **Monks** are rare on Bloomburrow, but at least one such tradition was brought to the [[Birdfolk]] by a traveler from the plane of Tarkir.
 
-**Paladins** are found on Bloomburrow as knights, often swearing oaths to protect [[Valley]] and its inhabitants. The [[Order of the Holly Leaf]] was a renowned group of Paladins were the guardians of the magical sword _[[Cragflame]]_.
+**Paladins** are found on Bloomburrow as knights, often swearing oaths to protect [[Valley]] and its inhabitants. The [[Order of the Holly Leaf]] was a renowned group of Paladins were the guardians of the magical sword _[[History/Notable Objects/Cragflame]]_.
 
 **Rangers** are common on Bloomburrow, mostly in those groups who are willing to venture to the dangerous lands on the outskirts of [[Valley]]. Beast Masters form bonds not with animals (who are [[animalfolk]] on Bloomburrow), but with insects and fish. Fey Wanderers and Gloom Stalkers are Rangers who channel magic from planes beyond Bloomburrow.
 

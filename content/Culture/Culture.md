@@ -7,3 +7,7 @@ An index of various culture related pages.
 - [[Astronomy]]
 - [[Classes]]
 - [[Backgrounds]]
+- [[Feats]]
+- [[Shop Items]]
+
+![[Bartering.png]]

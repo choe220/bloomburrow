@@ -11,7 +11,7 @@ At their best, birdfolk are chivalrous, stalwart, and selﬂess. Raised to be s
 
 In combat, birdfolk tend to dive from above, either straight down or at sharp angles, carrying a long lance or other polearms. Birdfolk weavers can use their ﬂight to quickly save other [[animalfolk]] even in difficult terrain. However, birdfolk lack the grounded combat prowess of other [[animalfolk]], so when conﬁned to narrow undergrowth, or when their injuries prevent them from ﬂying, their attacks are clumsy and unpracticed. Alongside their academic teachings comes an ethical framework, The Wingbeat Way, which instills a lifelong commitment to use their magic for the common good. Their closest allies are the [[mousefolk]], while they are often at odds with the [[frogfolk]].
 
-A revered birdfolk tradition known as the **[[Plumecreed]]** is a risky flight to the [[Tip of the World]], a mighty peak that only a brave birdfolk can reach. A birdfolk must plant one of their wing feathers at the peak and weave an ancient spell before leaving. The birdfolk who successfully make the journey are blessed with supernatural speed and agility. They are called **[[Windcrested]]**, a testament to their mastery of ﬂight, and often wear a single dyed feather as plumage atop their heads to show off their achievement.
+Many birdfolk take part in a tradition known as the [[Plumecreed]] at the [[Tip of the World]] to show off their master of flight.
 
 ![[Birdfolk.png]]
 ![[Birdfolk2.png]]

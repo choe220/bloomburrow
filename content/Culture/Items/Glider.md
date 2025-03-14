@@ -1,0 +1,1 @@
+A glider is a Medium contraption formed from a light material, such as a leaves or feathers, that allows you to glide. When you fall at least 10 feet while holding or wearing the glider, you can take a Reaction to glide horizontally in any direction a number of feet equal to your Speed, and you take 0 damage from the fall.

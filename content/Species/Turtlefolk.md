@@ -24,7 +24,3 @@ _**Natural Armor.**_ While you aren't wearing armor, your base Armor Class equa
 _**Shell Defense.**_ As an action, you can withdraw into your shell. Until you emerge, you gain a +4 bonus to your AC, you have Advantage on Strength and Constitution saving throws, you have the Restrained and Prone conditions, and the only action you can take is a Bonus Action to emerge.
 
 _**Slow But Steady.**_ You know the _True Strike_ cantrip. Wisdom, Intelligence, or Charisma is your spellcasting ability for it (choose the ability when you select this species).
-
-
-
-The turtlefolk shaman Archelos has lived a very long time. So long, that he forgot his age centuries ago. He spends much of his time meditating in his shell, spreading his considerable magic across the marsh he calls home, feeling, and understanding every aspect of nature. His magic power is so immense that one finds themselves drawn into Archelos's pace. Ask a simple yes or no question, and you'll find that an hour has passed without you noticing—and you still haven't received an answer. Only one being, a pesky [[Rabbitfolk|rabbitfolk]] named [[Kwain]], has been able to resist this magic. While Archelos finds the [[rabbitfolk]]'s interruptions irritating, he knows he was ancient when the rabbit was born and will be older still when the rabbit rejoins the earth.

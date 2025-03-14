@@ -1,1 +1,1 @@
-A vicious and covert [[squirrelfolk]] faction of luddites aspiring to reclaim the world for nature.
+A secretive and vicious covert order of [[Squirrelfolk|squirrelfolk]] faction of luddites aspiring to reclaim the world for nature.
