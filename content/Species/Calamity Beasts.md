@@ -14,18 +14,18 @@ Whenever and wherever a Calamity Beast appears, the world changes around them. L
 
 Bloomburrow has no natural seasons. Instead, seasons are brought on by the appearance of Calamity Beasts, whose migrations bring shifts in temperature and environment that are called as seasons. In [[Valley]], weather is never a coincidence. Winter is brought on by the massive [[The Blizzard Elk]] moving throughout [[Valley]]; the [[The Sun Hawk]] might herald the start of summer, scorching the air with arid heat. The [[animalfolk]] have names for every season, some of which occur once in a generation, while others happen each year with regularity, and each season is named after the powers of the Calamity Beast that caused it.
 ## Valley Seasons
-| Season                    | Calamity Beast          |
-| ------------------------- | ----------------------- |
-| Spring                    | [[Beza]]                |
-| Summer                    | [[The Sun Hawk]]        |
-| Autumn                    | [[The Evercoat Ursine]] |
-| Winter                    | [[The Blizzard Elk]]    |
-| The Season of Deep Waters | [[Eluge]]               |
-| The Season of Flames      | [[Wildsear]]            |
-| The Season of Long Night  | [[Maha]]                |
-| The Season of Salt        | [[Ygra]]                |
-| The Season of Drought     | [[Sunspine Lynx]]       |
-| The Season of the Maze    | [[Lumra]]               |
+| Season                        | Calamity Beast          |
+| ----------------------------- | ----------------------- |
+| Spring                        | [[Beza]]                |
+| Summer                        | [[The Sun Hawk]]        |
+| Autumn                        | [[The Evercoat Ursine]] |
+| Winter                        | [[The Blizzard Elk]]    |
+| The [[Season of Deep Waters]] | [[Eluge]]               |
+| The [[Season of Flames]]      | [[Wildsear]]            |
+| The [[Season of Long Night]]  | [[Maha]]                |
+| The [[Season of Salt]]        | [[Ygra]]                |
+| The [[Season of Drought]]     | [[Sunspine Lynx]]       |
+| The [[Season of the Maze]]    | [[Lumra]]               |
 [[Baleful Strix]]
 [[Fecund Greenshell]]
 [[Hivespine Wolverine]]

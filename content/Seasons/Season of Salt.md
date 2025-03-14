@@ -1,0 +1,1 @@
+[[Ygra]]'s arrival marks the season of Salt. This season is categorized by a withering of crops and the calcification of objects and structures with a build-up of salt. This is a season of dryness and drought; their is little rain, and many grow hungry. The [[Squirrelfolk]] ration their food cache stores during seasons such as this, to ensure the survival of the community.
