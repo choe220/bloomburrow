@@ -5,6 +5,3 @@ Fabrics in [[Valley]] are primarily made from leaf leather or woven from natural
 ![[Quilts.png]]
 ![[Leaf Leather.png]]
 
-[[Brightblades]] are soldiers who wield glass blades they are trained to maximize glare from sunlight with.
-
-[[Moonstone]] weapons drink in the last light of dusk to give their wielders an edge in combat.
