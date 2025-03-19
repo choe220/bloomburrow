@@ -20,7 +20,7 @@
 
 **Rogues** are often found on Bloomburrow as bandits, but some make up adventuring parties as scouts and stealthy ambushers. [[Ratfolk]] are renowned as Rogues for their silent footpads, and especially as psychic Soulknives.
 
-**Sorcerers** are wielders of innate magic. Draconic Sorcery might arise from dragons who come through Omenpaths to Bloomburrow (often becoming birds). Wild Sorcery might arise from the [[Calamity Beasts]]. Aberrant and Clockwork sorcery arise from planes beyond Bloomburrow.
+**Sorcerers** are wielders of innate magic. Draconic Sorcery might arise from dragons who come through [[Omenpath|Omenpaths]] to Bloomburrow (often becoming birds). Wild Sorcery might arise from the [[Calamity Beasts]]. Aberrant and Clockwork sorcery arise from planes beyond Bloomburrow.
 
 **Warlocks** make pacts with powerful creatures to obtain magic. A Celestial Patron might be a [[Batfolk]] ancestor. Fey and Fiend Patrons are powerful beings from other planes in the MtG multiverse, while a Great Old One Patron might be the snail **Grotgyre**.
 

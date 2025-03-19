@@ -8,7 +8,7 @@ The Bonebound are only spoken of in whispers by the [[animalfolk]] of [[Valley]]
 
 It is well known that [[Squirrelfolk]] have the ability to raise undead servants, but these powers are mostly reserved for insects, or for the [[Calamity Beasts]] from which the [[Squirrelfolk]] draw magic. The act of raising a dead [[animalfolk]] is considered taboo even among the [[Squirrelfolk]] themselves. Still, some practice the art, especially the [[Squirrelfolk]] known as the [[Belladonna]], a secretive order that wants to reclaim the world for nature.
 
-While most Bonebound are mindless servants, particularly powerful magic, or spells influenced by [[Calamity Beasts]] or Omenpaths, might lead to the creation of a Bonebound that retains its sentience and memories.
+While most Bonebound are mindless servants, particularly powerful magic, or spells influenced by [[Calamity Beasts]] or [[Omenpath|Omenpaths]], might lead to the creation of a Bonebound that retains its sentience and memories.
 
 Bonebound are not welcome in [[Valley]] society, and are instead found on its outskirts. They are most often servants of a [[Squirrelfolk]] Necromancer, but free-minded Bonebound scavenge roads and resort to monstrous banditry.
 
