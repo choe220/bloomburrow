@@ -17,6 +17,7 @@
 | Strawberry Tarts                  | 5 cp      | Flaky pastry shells filled with ripe strawberries and sugar.            |
 | Sunflower Seed Scones             | 3 cp      | Savory, with a light crunch from roasted sunflower seeds.               |
 | Treacle (jar)                     | 6 cp      | Thick, dark syrup used as a sweetener or spread.                        |
+| [[Flatbread]]                     | 4 cp      | A savory flatbread with vegetables baked into the top                   |
 | **Savory Fare**                   |           |                                                                         |
 | Dandelion & Turnip Green Salad    | 4 cp      | Fresh, slightly bitter greens with herbs and nuts.                      |
 | Grilled Minnows (skewer)          | 5 cp      | Crispy, seasoned with herbs and served with tangy sauce.                |
