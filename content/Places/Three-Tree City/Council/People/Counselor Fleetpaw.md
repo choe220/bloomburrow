@@ -1,2 +1,0 @@
-![[Counselor Fleetpaw.png]]
-

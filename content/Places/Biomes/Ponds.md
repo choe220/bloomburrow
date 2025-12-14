@@ -1,6 +1,0 @@
-![[Ponds.png]]
-Ponds dot [[Valley]], beckoning [[animalfolk]] along their shores to farm and ﬁsh. Some ponds are ﬁlled with lily pads, providing ample surface for the semi-aquatic [[animalfolk]] to rest in between dips in the water. Weary travelers are always relieved to see water, knowing that a settlement is sure to be nearby. Larger ponds provide clear, fresh water for all of [[Valley]]'s animals, whether through subterranean irrigation or merchants who bottle up water to bring to those who live far away.
-
-The [[Long River]] runs down from above the forests all the way to the marshes and beyond [[Valley]]. Fish swim frequently through [[Valley]], providing a nourishing source of food for those [[animalfolk]] patient enough to catch them. This river and the ponds do not intersect; the ponds are isolated and fed by rainwater while the river leads to the marshes, its source far behind the land of [[Valley]].
-
-The largest pond in all of [[Valley]] is home to [[Fountainport]], a marvel of craftsmanship and a popular destination for [[animalfolk]] to visit whether to see friends or to gaze across the pond.

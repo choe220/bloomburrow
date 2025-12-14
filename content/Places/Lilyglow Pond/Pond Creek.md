@@ -1,5 +1,0 @@
-Pond Creek is a slow-moving, meandering waterway, its surface often dotted with lily pads and blooming lotuses. Its banks are rich with tall cattails, thick reeds, and weeping willows, their branches dipping into the water. Moss-covered stepping stones create paths across the creek, while small wooden bridges allow for easy crossing.
-
-Despite its peaceful appearance, Pond Creek is teeming with life—tiny fish dart beneath the surface, fireflies dance over the water at dusk, and dragonflies skim the ripples. The creek swells slightly during heavy rains, but careful embankments and natural levees prevent flooding.
-
-As it flows toward the [[Lilyglow Pond]], Pond Creek broadens, becoming a popular fishing spot where the village’s best anglers gather at dawn. This stretch of the creek is lined with small boathouses and floating rafts, where [[frogfolk]] and other aquatic-friendly [[animalfolk]] cast nets, haul in baskets of shellfish, and share stories of the river’s depths.

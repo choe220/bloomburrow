@@ -1,4 +1,0 @@
-![[War of Cinders.png]]
-Powerful as weaving was, the [[Calamity Beasts]] would not succumb to their terrible new powers. For two generations, battles raged throughout [[Valley]]. [[Animalfolk]] fought back in kind, slaying the weakest among the [[Calamity Beasts]] when the opportunity presented itself. It was then that the greatest among the Calamities appeared: [[Wildsear]], the Season of Flames, the Primordial Fire, the Scouring Maw who burns through the seams of this plane and the next.
-
-The great firestorms raged, erasing what little progress the [[animalfolk]] had made. The great oak was split by fire and lightning and still smolders to this day ([[Ever-burning Oak]]), a monument to the power of the elements. Hope was lost, and the [[animalfolk]] driven to the dens beneath the earth, forced to dig deeper and deeper as the flames above grew hotter and hotter. It was under the crackling fires that [[Lily Emberseed|Lily]] was born.

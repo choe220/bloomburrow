@@ -1,1 +1,0 @@
-The **Direshade Company** are a band of at least a dozen mercenaries led by the [[weaselfolk]] [[Cruelclaw]]. The Direshades include [[squirrelfolk]] necromancers, [[birdfolk]], [[lizardfolk]], [[rabbitfolk]], [[raccoonfolk]], and [[skunkfolk]] among their ranks.

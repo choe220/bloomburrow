@@ -1,1 +1,0 @@
-A perilous mountain where only [[birdfolk]] dare to venture. When this risky adventure, called the [[Plumecreed]], has been completed, the [[birdfolk]] receive the title of "[[Windcrested]]."

@@ -1,1 +1,0 @@
-The region leading to the [[Root Maze]].

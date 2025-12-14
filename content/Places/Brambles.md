@@ -1,1 +1,0 @@
-The lands outside of [[Valley]]'s villages and towns.

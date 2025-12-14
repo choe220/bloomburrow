@@ -1,2 +1,0 @@
-![[Chronicler Tibbins.png]]
-

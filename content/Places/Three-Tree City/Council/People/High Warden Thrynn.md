@@ -1,2 +1,0 @@
-![[High Warden Thrynn.png]]
-

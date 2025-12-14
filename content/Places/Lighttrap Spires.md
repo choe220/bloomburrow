@@ -1,3 +1,0 @@
-Precarious spires stacked upon each other. Twice a day, the sun and moon each beam through them, casting a shadow across [[Valley]]. Mirrors catch this light, reﬂecting it onto a massive opaline gem embedded in the center of the towers. Here, an elder [[batfolk]] trades their sight for visions of the realms beyond [[Valley]]. Their eyes are subsequently ﬁlled with a unique nebula-like pattern that marks their ascension to the upper ranks of the priesthood.
-
-The largest known deposits of [[moonstone]] are embedded within the opaline gem at the heart of the Lighttrap Spires. [[Batfolk]] elders who have sacrificed their sight for visions believe these stones hold echoes of the cosmos.

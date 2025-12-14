@@ -1,2 +1,0 @@
-![[Sunflower Sanctum.png]]
-A well-kept sanctuary where tall sunﬂowers grow. Many [[animalfolk]] source their seeds from here during the summer to store for the winter, but their heights are too dangerous for some [[animalfolk]], so [[birdfolk]] claim many of the seeds.

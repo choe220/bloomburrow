@@ -1,1 +1,0 @@
-A vast valley full of mushrooms that grow large because of the leyline that runs below it. Colorful fungi, inedible plants, and strange insects thrive here, and [[Squirrelfolk]] venture here to gather poisonous plants, cultivate fungi, and scavenge [[Calamity Beasts|Calamity Beast]] remains.

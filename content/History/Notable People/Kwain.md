@@ -1,3 +1,0 @@
-Kwain is a [[Rabbitfolk|rabbitfolk]] wizard. Kwain has many talents. He's a fast mover, a fast thinker, and a fast talker. To him, the world moves in slow motion. He believes people spend far too much time making up their minds when they could just be doing it.
-
-To that end, no one frustrates him more than the [[Turtlefolk|turtlefolk]] [[Archelos]]. To Kwain, [[Archelos]] represents everything he finds irritating. But still, he finds himself drawn to the turtle, literally running circles around him trying to get any sort of reaction.

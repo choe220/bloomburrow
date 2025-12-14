@@ -1,4 +1,0 @@
-![[Thickets.png]]
-The forests of [[Valley]] are ﬁlled with lush foliage, characterized by thickets of mossy and vine-covered trees and rocks. Ivy provides pockets of shelter that disguises nests and homes to keep [[animalfolk]] safe. Oak trees here have squat and round trunks, branching off low to the ground. Their gnarled appearance reveals their age, many trees being hundreds of seasons old with a size to match. Trees are enormous here, housing entire cities where [[animalfolk]] from all over [[Valley]] live in harmony.
-
-At the edge of the large forest along the river is the crowning achievement of [[animalfolk]] comradery, [[Three-Tree City]]. This is the most densely populated place in [[Valley]], home to every species of [[animalfolk]] and a major hub for travelers and adventurers.

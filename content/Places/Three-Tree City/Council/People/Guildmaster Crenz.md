@@ -1,2 +1,0 @@
-![[Guildmaster Crenz.png]]
-

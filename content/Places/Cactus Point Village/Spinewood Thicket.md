@@ -1,1 +1,0 @@
-The massive cacti forest making up the area in which [[Cactus Point Village]] lies. The inside of these ancient cacti are the main supply of water.

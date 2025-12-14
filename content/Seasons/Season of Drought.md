@@ -1,1 +1,0 @@
-When the [[Sunspine Lynx|Drought Cat]] arrives, it brings with it a Season of Drought. It scorches the earth and ground, preventing crops from growing, and even the night is bright with radiance. Because of the nature of its shooting embers, its arrival is sometimes called the Calamity of Cinders.

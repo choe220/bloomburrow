@@ -1,1 +1,0 @@
-[[The Blizzard Elk]] is the herald of Winter. When it arrives in [[Valley]], the weather grows cold, snow begins to fall, and many [[animalfolk]] take to their burrows to rest and keep warm. When left unchecked, the [[The Blizzard Elk|Elk]] can bring winters cold enough to freeze the [[animalfolk]], and must be driven off by those with the courage to brave the icy frost.

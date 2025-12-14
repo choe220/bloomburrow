@@ -1,2 +1,0 @@
-![[Viscount Brindlewood.png]]
-

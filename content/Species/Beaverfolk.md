@@ -1,2 +1,0 @@
-![[Species/Images/Beaverfolk.png]]
-
