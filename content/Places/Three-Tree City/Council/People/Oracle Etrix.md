@@ -1,0 +1,2 @@
+![[Oracle Etrix.png]]
+

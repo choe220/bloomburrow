@@ -1,0 +1,1 @@
+[[The Sun Hawk]] heralds the [[Season of Summer]], bringing with it warmth and long days. Summer can be a good season of rest, but the [[The Sun Hawk|hawk]] does not deal the summer heat in moderation; when it flies, fires start and spread, and the heroes of [[Valley]] must valiantly defend their homes if it flies too near.

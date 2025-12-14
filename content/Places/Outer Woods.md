@@ -1,0 +1,1 @@
+The lands surrounding [[Valley]]. Little is known about these lands. [[Wildsear]] fled to the Outer Woods after [[Lily Emberseed|Lily of Valley]] defeated it.

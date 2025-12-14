@@ -1,0 +1,5 @@
+---
+aliases:
+  - Calamitous Scavengers
+---
+![[Swarm of Huskbursters.jpeg]]Huskbursters aren't [[Calamity Beasts]] themselves, but instead Elemental insects that are formed from the remains of fallen [[Calamity Beasts]]. They are known to burst forth from the carcasses of [[Calamity Beasts]], hence their name, and descend as a swarm upon any who are nearby. [[Squirrelfolk]] necromancers draw power from the bones of [[Calamity Beasts]], and so are intimately familiar with these insects; some necromancers may even be able to command them.

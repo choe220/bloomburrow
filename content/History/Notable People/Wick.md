@@ -1,0 +1,9 @@
+---
+aliases:
+  - The Whorled Mind
+---
+![[Wick.png]]
+Wick is a bent and wiry [[ratfolk]] figure, draped in a purple robe and dangling adornments with mystical symbols and arcane patterns over his shoulder. His fur is a dark shade of gray, with a few silver streaks adding a touch of aged wisdom to his appearance. His piercing, violet eyes glow with an unsettling intelligence, and his whiskers twitch with an air of constant calculation. Upon his back, Wick wears a giant snail shell like an extravagant backpack, filled to the brim with knickknacks and baubles. Numerous smaller snails surround him.
+
+Worship of the Snail
+As a young pup raised in the marshland village of [[Conch]], Wick was a prodigy amongst a community of psychics. He grew inseparable from the snail [[Grotgyre]], their psychic bond so deeply engrained they could anticipate each other's thoughts. Then, a sickness befell the snails of [[Conch]], and Wick along with them. He became haunted by visions of whorls and eyes, sleep eluding him. He was awake all hours of the night jotting out scripture until some years later when his paranoia ascended into enlightenment. Wick found comfort in his connection to the snails and sought to spread it. He left his village alongside a few like-minded psychics to proselytize, recruiting followers to tunnel out spiraling, labyrinthian passages into the earth where he and his converts reclused. Each new member is subjected to the same taxing initiation that Wick endured, a connection to an anointed snail forged in exchange for ultimate truth. They revere every aspect of their snails—worship them, consume their flesh, convert what's left into magic—then a new connection is forged. With it, the cycle begins anew in a never-ending spiral.

@@ -1,0 +1,1 @@
+Lilypads are often used on Bloomburrow as floating devices. A large lilypad on water provides enough buoyancy to keep a Medium or smaller creature afloat, provided the creature isn't wearing Heavy armor.

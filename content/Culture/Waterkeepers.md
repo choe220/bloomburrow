@@ -1,0 +1,1 @@
+The sacred profession of keeping the water in [[Cactus Point Village]]. This is a critical position and revered by most. Without the waterkeepers, the desert oasis would cease to exist.
