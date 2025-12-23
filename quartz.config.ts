@@ -30,28 +30,52 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#F2E9D4",          // Eldritch Bone (Parchment background)
+          lightgray: "#E5DEC9",      // Muted Bone (Borders/Search)
+          gray: "#8B8579",           // River Silt (Metadata/Dates)
+          darkgray: "#5C4033",       // Soft Bark Brown (Body Text)
+          dark: "#2D3E40",           // Storm-Cloud Teal (Headers)
+          secondary: "#4A6D3F",      // Mossy Canopy Green (Links & UI)
+          tertiary: "#E9BC4F",       // Sun-Drenched Gold (Hover & Accents)
+          highlight: "rgba(74, 109, 63, 0.1)", // Soft Mossy Highlight
+          textHighlight: "#E9BC4F88", // Gold Text Highlight
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#1A1C23",          // Nightshade Slate (Deep Background)
+          lightgray: "#2D3E40",      // Storm-Cloud Teal (UI Accents)
+          gray: "#646464",           // Iron Grey
+          darkgray: "#F2E9D4",       // Eldritch Bone (Readable Body Text)
+          dark: "#E9BC4F",           // Sun-Drenched Gold (Main Headers)
+          secondary: "#4A6D3F",      // Mossy Canopy Green (Links)
+          tertiary: "#D95D39",       // Autumn Ember (Hover/Unresolved)
+          highlight: "rgba(233, 188, 79, 0.15)", // Subtle Gold Highlight
+          textHighlight: "#D95D3988", // Autumn Ember Highlight
         },
       },
+      # colors: {
+      #   lightMode: {
+      #     light: "#faf8f8",
+      #     lightgray: "#e5e5e5",
+      #     gray: "#b8b8b8",
+      #     darkgray: "#4e4e4e",
+      #     dark: "#2b2b2b",
+      #     secondary: "#284b63",
+      #     tertiary: "#84a59d",
+      #     highlight: "rgba(143, 159, 169, 0.15)",
+      #     textHighlight: "#fff23688",
+      #   },
+      #   darkMode: {
+      #     light: "#161618",
+      #     lightgray: "#393639",
+      #     gray: "#646464",
+      #     darkgray: "#d4d4d4",
+      #     dark: "#ebebec",
+      #     secondary: "#7b97aa",
+      #     tertiary: "#84a59d",
+      #     highlight: "rgba(143, 159, 169, 0.15)",
+      #     textHighlight: "#b3aa0288",
+      #   },
+      # },
     },
   },
   plugins: {
@@ -88,6 +112,7 @@ const config: QuartzConfig = {
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.NotFoundPage(),
+      Plugin.Favicon()
     ],
   },
 }

@@ -4,6 +4,7 @@ aliases:
 ---
 ![[Oakhollow.png]]
 ![[Oakhollow Village.png]]
+___
 Nestled within the towering embrace of an ancient oak tree, Oakhollow is a village that thrives in the heartwood of nature itself. Its great, hollowed trunk serves as the foundation of the settlement, with winding staircases carved into the bark, leading to snug burrows, leafy balconies, and suspended bridges woven from vines and braided reeds. Lanterns filled with fireflies glow warmly along the pathways, casting soft golden light against the tree’s bark as the village hums with quiet, everyday life.
 
 The [[frogfolk]] of Oakhollow are well-adapted to their arboreal home, leaping between platforms and lily-pad-shaped landings with ease. They often live in the damp, mossy hollows and along the wooden aqueducts that carry fresh water from the [[Long River]] up into the village. Many are skilled herbalists and brewers, gathering rare fungi and medicinal plants from the shaded roots of the great oak.
@@ -16,13 +17,13 @@ Despite its peaceful atmosphere, Oakhollow is no stranger to the eerie presence 
 # Trade
 Oakhollow is known throughout [[Valley]] for the fungi that grows in the nearby marsh, [[Marrowfen Marsh]]. The fungi glows and is used all over [[Valley]] as a means of light without the need for flame. [[Animalfolk]] also scour the tree for acorns and export those as well. The proximity to [[Calamity Graveyard]] has many of the most adventurous venturing into it to harvest [[Corpseberry|Corpseberries]]. These are sent down the river to [[The Knowledge Ossuary]] to be used by the [[Weaving|Weavers]] and archivists in their studies.
 # Locations
-[[Swaying Bough]] (inn)
-[[Squirrel's Drey]] (inn)
-[[Root Market]] (market)
-[[Humid Alchemist]]
-[[Reed-Weavers Slip]]
-[[Sap-Tap Apothecary]]
-[[Pulley & Pivot]]
-[[Star-Gazer's Lookout]]
-[[Heartwood Carver]]
+- [[Swaying Bough]] (inn)
+- [[Squirrel's Drey]] (inn)
+- [[Root Market]] (market)
+- [[Humid Alchemist]]
+- [[Reed-Weavers Slip]]
+- [[Sap-Tap Apothecary]]
+- [[Pulley & Pivot]]
+- [[Star-Gazer's Lookout]]
+- [[Heartwood Carver]]
 
