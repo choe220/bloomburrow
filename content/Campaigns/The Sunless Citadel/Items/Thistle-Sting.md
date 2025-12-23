@@ -1,5 +1,3 @@
-# Thistle-Sting
-
 *Weapon (Rapier), legendary (requires attunement)*
 
 ---

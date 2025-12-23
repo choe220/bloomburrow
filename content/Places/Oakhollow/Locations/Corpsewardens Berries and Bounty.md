@@ -1,0 +1,2 @@
+![[Corpsewardens.png]]
+The store front and transport hub for the [[Corpsewardens]]. Located on the docks of the [[Root Market]] in [[Oakhollow Village|Oakhollow]]. Boxes of [[Corpseberry|corpseberries]] are packaged and prepared for shipment out of the village. 

@@ -10,4 +10,4 @@ To the [[animalfolk]] of Bloomburrow, Eluge is enormous, its giant silvery-scale
 >Eluge, whose arrival heralds the [[Season of Deep Waters]]. For most of us in [[Valley]], we've been able to see across the length of any water. But, as the abyssal jaws of Eluge breach the ponds, the waves seem endless, and each thrash of its tail is a tidal current that threatens to rip roots from the soil. Eluge has never been spotted so far down the [[Long River]] as it has recently. There must be something upstream driving it closer, and anything that can drive such a Calamity upriver might threaten the whole of [[Valley]].
 >- Alania, Divergent Storm
 
-![[Eluge.png]]![[Eluge Concept.png]]
+![[Species/Calamity Beasts/Images/Eluge.png]]![[Eluge Concept.png]]

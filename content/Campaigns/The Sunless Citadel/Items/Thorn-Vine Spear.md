@@ -1,5 +1,3 @@
-# Thorn-Vine Spear
-
 *Weapon (Spear), very rare (requires attunement)*
 
 ---

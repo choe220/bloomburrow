@@ -1,2 +1,4 @@
 ![[Knowledge Ossuary.png]]
 The Knowledge Ossuary is a limestone cavern village inhabited by [[ratfolk]] archivists. The most ancient Ossuary in [[Valley]], it houses a library of the plane's history. It is protected by powerful enchantments and warriors, and only a [[ratfolk]] elder can permit a visitor to view the contents of the Ossuary. One of its entrances along the [[Long River]] is covered by a mussel shell, and its tunnels are illuminated by enchanted lights. Long ago, it was burrowed by an extinct species of enormous insects. It is west-southwest of [[Fountainport]].
+
+[[Corpseberry|Corpseberries]] are sent from [[Oakhollow Village|Oakhollow]] and used by the archivists and weavers of the Ossuary.

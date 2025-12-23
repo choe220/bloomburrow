@@ -1,5 +1,3 @@
-# Cloak of the Blighted Hunter
-
 *Wondrous item, rare (requires attunement)*
 
 ---

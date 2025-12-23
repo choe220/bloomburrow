@@ -1,5 +1,3 @@
-# Root-Cleaver
-
 *Weapon (Longsword), uncommon (requires attunement)*
 
 ---

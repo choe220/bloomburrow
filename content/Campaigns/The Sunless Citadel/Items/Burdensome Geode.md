@@ -1,5 +1,3 @@
-# Burdensome Geode
-
 *Wondrous item, rare*
 
 ---

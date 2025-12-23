@@ -1,5 +1,3 @@
-# Amulet of the Uncorrupted Spirit
-
 *Wondrous item, rare (requires attunement)*
 
 ---

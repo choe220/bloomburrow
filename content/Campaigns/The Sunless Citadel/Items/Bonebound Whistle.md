@@ -1,5 +1,3 @@
-# Bonebound Whistle
-
 *Wondrous item, uncommon*
 
 ---

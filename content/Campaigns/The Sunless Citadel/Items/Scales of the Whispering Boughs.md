@@ -1,5 +1,3 @@
-# Scales of the Whispering Boughs
-
 *Wondrous item, uncommon*
 
 ---

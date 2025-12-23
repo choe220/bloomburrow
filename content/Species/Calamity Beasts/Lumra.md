@@ -2,7 +2,7 @@
 aliases:
   - Bellow of the Woods
 ---
-![[Lumra.png]]
+![[Species/Calamity Beasts/Images/Lumra.png]]
 Lumra is a towering [[Calamity Beasts|Calamity Beast]] that appears as a leaf-sprouting bear. Her eyes glow with green magic, pine cones, branches, twigs sprout from her shoulders, and her sharp teeth mark her fearsome muzzle. Long, sharp claws sprout from each paw. Wherever Lumra wanders, the landscape warps around her, causing trees to sprout and canopies to form overhead, generating a new, unrecognizable forest with a mix of deciduous and coniferous trees.
 
 Lumra represents the feeling of getting lost in the woods, and she inspires fear among the animalfolk where she appears. [[Flubs]] is the only [[animalfolk]] known to have escaped her forests.

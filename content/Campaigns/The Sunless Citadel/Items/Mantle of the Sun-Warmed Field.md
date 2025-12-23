@@ -1,5 +1,3 @@
-# Mantle of the Sun-Warmed Field
-
 *Wondrous item, rare (requires attunement)*
 
 ---

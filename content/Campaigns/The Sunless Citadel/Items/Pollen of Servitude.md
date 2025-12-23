@@ -1,5 +1,3 @@
-# Pollen of Servitude
-
 *Potion, uncommon*
 
 ---

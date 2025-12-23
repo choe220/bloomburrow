@@ -9,4 +9,4 @@ To the [[animalfolk]] of Bloomburrow, Ygra is enormous, the elemental cat's gi
 >Ygra is ever hungry. We call its coming the [[Season of Salt]], when our fields and friends are transfigured into salt pillars. As Ygra devours, it is left hungry still, mouth dry and blistered. No creature, not even a Calamity, can survive on salt alone. It would almost be pitiable if the source of its suffering wasn't the home I have come to love and strove to protect.
 >- Baylen, the haymaker
 
-![[Ygra.png]]
+![[Species/Calamity Beasts/Images/Ygra.png]]

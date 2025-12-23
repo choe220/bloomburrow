@@ -1,5 +1,3 @@
-# Bracelet of Petrified Bark
-
 *Wondrous item, very rare (requires attunement)*
 
 ---

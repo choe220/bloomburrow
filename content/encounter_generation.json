@@ -1,0 +1,60 @@
+{
+  "combat": [
+    {
+      "name": "Bandit Ambush",
+      "description": "A group of desperate Raccoonfolk bandits spring from the bushes, demanding your valuables.",
+      "creatures": ["Raccoonfolk Bandit Captain", "Raccoonfolk Bandit (1d4)"]
+    },
+    {
+      "name": "Territorial Badgerfolk",
+      "description": "A grumpy Badgerfolk emerges from their burrow, warning you to get off their land.",
+      "creatures": ["Badgerfolk Berserker"]
+    },
+    {
+      "name": "Swarm of Fireflies",
+      "description": "A beautiful but dangerous swarm of Fireflies descends, their light burning to the touch.",
+      "creatures": ["Swarm of Fireflies (1d6)"]
+    },
+    {
+      "name": "Sun-Dazed Lizardfolk",
+      "description": "A group of Lizardfolk are basking on a hot rock and become aggressive when disturbed.",
+      "creatures": ["Lizardfolk (1d4)"]
+    }
+  ],
+  "social": [
+    {
+      "name": "Lost Mousefolk Child",
+      "description": "A tiny Mousefolk child is crying, separated from their family. They need help finding their way back to the nearest village."
+    },
+    {
+      "name": "Traveling Merchant",
+      "description": "A friendly Otterfolk merchant with a brightly colored cart hails you from the road, eager to show you their wares."
+    },
+    {
+      "name": "Pilgrim on a Journey",
+      "description": "A devout Turtlefolk monk is on a pilgrimage to the Sunflower Sanctum and asks for directions or protection."
+    },
+    {
+      "name": "A Bard's Tale",
+      "description": "A charismatic Birdfolk bard is telling a grand tale in a local tavern, but some of the details sound suspicious."
+    }
+  ],
+  "exploration": [
+    {
+      "name": "Ancient Ruins",
+      "description": "You stumble upon a set of vine-covered ruins, with strange symbols carved into the stone."
+    },
+    {
+      "name": "A Hidden Grove",
+      "description": "You find a tranquil grove, filled with glowing flowers and a peaceful silence. A sense of calm washes over you."
+    },
+    {
+      "name": "A Mysterious Map",
+      "description": "You find a map tucked into the hollow of a tree. It's written in a language you don't recognize, but the landmarks look familiar."
+    },
+    {
+      "name": "A Natural Phenomenon",
+      "description": "You witness a rare natural event, like a meteor shower, a double rainbow, or the migration of thousands of butterflies."
+    }
+  ]
+}

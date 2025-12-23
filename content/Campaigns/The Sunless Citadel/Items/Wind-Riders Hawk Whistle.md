@@ -1,5 +1,3 @@
-# Wind-Rider's Hawk Whistle
-
 *Wondrous item, rare*
 
 ---

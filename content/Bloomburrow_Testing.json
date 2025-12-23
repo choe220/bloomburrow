@@ -1,0 +1,203 @@
+{
+  "_meta": {
+    "sources": [
+      {
+        "json": "BloomburrowCampaignSetting",
+        "abbreviation": "BLB",
+        "full": "Bloomburrow",
+        "color": "159F00",
+        "version": "1",
+        "convertedBy": [
+          "LordKrohn"
+        ],
+        "authors": [
+          "Wizards of the Coast",
+          "grzart",
+          "LordKrohn"
+        ],
+        "dateReleased": "2025-02-27",
+        "url": "https://www.gmbinder.com/share/-N5u7p3S1KlSgC6GQgBg"
+      }
+    ],
+    "dateAdded": 1765843664,
+    "dateLastModified": 1765901264,
+    "edition": "one",
+    "status": "wip"
+  },
+  "encounter": [
+    {
+      "name": "Bloomburrow Encounters",
+      "source": "BloomburrowCampaignSetting",
+      "tables": [
+        {
+          "minlvl": 1,
+          "maxlvl": 5,
+          "diceExpression": "d12",
+          "caption": "Road Encounters",
+          "table": [
+            {
+              "min": 1,
+              "max": 1,
+              "result": "A patrol of mousefolk rangers led by a seasoned scout. {@dice 1d4} mousefolk archers and {@dice 1d4} mousefolk warriors."
+            },
+            {
+              "min": 2,
+              "max": 2,
+              "result": "A young mousefolk child is crying beside a broken satchel. Medium: Being stalked by a predator. Hard: Someone is watching from the canopy"
+            },
+            {
+              "min": 3,
+              "max": 3,
+              "result": "{@b The Silent Procession} - A caravan of animalfolk merchants (hedgehog and rabbitfolk) pass by, pulling small wagons covered in ivy. Their faces are solemn, their crates bound in thorny vines. If questioned, they refuse to say what they carry, muttering only that it's “for the Grove.”"
+            },
+            {
+              "min": 4,
+              "max": 4,
+              "result": "A frogfolk named Mipple sits beside an overturned cart, his wares (seedcakes, jam, and dried herbs) spilled across the road. He asks for help fixing a wheel but grows nervous if pressed about his destination. If helped, he rewards the party with a {@b small sachet of calming lavender}."
+            },
+            {
+              "min": 5,
+              "max": 5,
+              "result": "A partially skeletal squirrelfolk lies in the path, its bones unnaturally clean and arranged in a pattern. A Weaving ritual? A warning?"
+            },
+            {
+              "min": 6,
+              "max": 6,
+              "result": "For a mile, the Brambles are {@b silent}—no wind, no birds. The party's shadows seem slightly delayed in their movement. A low whispering rises if they remain too long."
+            },
+            {
+              "min": 7,
+              "max": 7,
+              "result": "The party finds a sun-dappled grove where several {@creature Giant Dragonfly|bloomburrowcampaignsetting} are flitting between large, colorful flowers. They are beautiful and non-hostile unless attacked."
+            },
+            {
+              "min": 8,
+              "max": 8,
+              "result": "An overgrown, abandoned watchpost stands beside the road, its wooden structure entwined with vines and flowers. Searching it might yield some minor loot, but a hidden tripwire triggers a falling log trap."
+            },
+            {
+              "min": 9,
+              "max": 9,
+              "result": "Silvery threads crisscross through the trees beside the road."
+            },
+            {
+              "min": 10,
+              "max": 10,
+              "result": "The forest floor shudders as a {@creature Twig Blight} emerges from the underbrush, followed by {@dice 1d4} more Twig Blights."
+            },
+            {
+              "min": 11,
+              "max": 11,
+              "result": "The air grows thick with the scent of damp earth and decay as the party stumbles upon a hidden grove. In the center, a large, gnarled tree stands, its roots twisting like serpents. A faint glow emanates from within the tree's hollow. Inside is a {@b small crystal} pulsating with a soft, green light. Touching it grants the party a temporary boon: {@b advantage on Stealth checks} for the next hour as they feel more attuned to the forest."
+            },
+            {
+              "min": 12,
+              "max": 12,
+              "result": "A puddle of sap glistens in the dappled sunlight, its surface undisturbed. A successful DC 15 {@sense Nature}/{@sense Survival} check reveals it. Upon walking through it, the sap clings to the skin, causing disadvantage on {@sense Dexterity} checks for the next hour."
+            }
+          ]
+        },
+        {
+          "minlvl": 1,
+          "maxlvl": 5,
+          "diceExpression": "d12",
+          "caption": "Thickets (Forest) Encounters",
+          "table": [
+            {
+              "min": 1,
+              "max": 1,
+              "result": "Vines twitch unnaturally. Stepping too close, they lash out. Make a DC 13 {@sense Dexterity} saving throw or take {@damage 1d6} piercing damage."
+            },
+            {
+              "min": 2,
+              "max": 2,
+              "result": "The wind carries whispers of past battles. For a brief moment, the party sees ghostly figures of warriors fighting in a clearing until they fade."
+            },
+            {
+              "min": 3,
+              "max": 3,
+              "result": ""
+            },
+            {
+              "min": 4,
+              "max": 4,
+              "result": ""
+            },
+            {
+              "min": 5,
+              "max": 5,
+              "result": ""
+            },
+            {
+              "min": 6,
+              "max": 6,
+              "result": ""
+            },
+            {
+              "min": 7,
+              "max": 7,
+              "result": ""
+            },
+            {
+              "min": 8,
+              "max": 8,
+              "result": ""
+            },
+            {
+              "min": 9,
+              "max": 9,
+              "result": ""
+            },
+            {
+              "min": 10,
+              "max": 10,
+              "result": ""
+            },
+            {
+              "min": 11,
+              "max": 11,
+              "result": ""
+            },
+            {
+              "min": 12,
+              "max": 12,
+              "result": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "item": [
+    {
+      "name": "Calming Lavender Sachet",
+      "source": "BloomburrowCampaignSetting",
+      "type": "FD",
+      "rarity": "common",
+      "entries": [
+        "This small cloth pouch is filled with dried lavender flowers. When opened, it releases a soothing aroma that calms the mind. While carrying this sachet, you have advantage on saving throws against being frightened."
+      ]
+    },
+    {
+      "name": "Bolas",
+      "source": "BloomburrowCampaignSetting",
+      "type": "WM",
+      "rarity": "uncommon",
+      "range": "60 ft.",
+      "weight": 2,
+      "entries": [
+        "When you take the Attack action, you can replace one of your attacks with throwing a Bolas. Target a creature you can see within 60 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or have the Restrained condition until it escapes. The target succeeds automatically if it is Huge or larger. While Restrained, the target also has the Prone condition.",
+        "To escape, the target or a creature within 5 feet of it must take an action to make a DC 10 Strength (Athletics) check, freeing the Restrained creature on a success. Destroying the Bolas (AC 10; 5 HP; Immuity to Bludgeoning, Poison, and Psychic damage) also frees the Restrained creature, ending the effect."
+      ]
+    },
+    {
+      "name": "Corpseberry",
+      "source": "BloomburrowCampaignSetting",
+      "type": "FD",
+      "rarity": "rare",
+      "entries": [
+        "A rare fruit that grows from the corpses of Calamity Beasts, sometimes collected by Squirrelfolk. It has \"nectar the flavor of strength and skin as fragile as life.\""
+      ]
+    }
+  ]
+}

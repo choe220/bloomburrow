@@ -1,0 +1,3 @@
+![[Bramble.png]]
+Bramble is a [[Rabbitfolk|rabbitfolk]] barmaid at [[Swaying Bough|The Swaying Bough]] in [[Oakhollow Village|Oakhollow]]. She wears a sturdy canvas apron that is embroidered with small green leaves. She always has her "lucky" wooden stirrer tucked behind one ear
+Bramble is practical, cheerful, and an expert at calming down rowdy customers with a sharp whistle and a plate of warm [[clover cakes]].

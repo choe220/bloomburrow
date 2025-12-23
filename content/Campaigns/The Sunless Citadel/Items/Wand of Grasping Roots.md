@@ -1,5 +1,3 @@
-# Wand of Grasping Roots
-
 *Wand, uncommon (requires attunement by a spellcaster)*
 
 ---

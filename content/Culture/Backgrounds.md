@@ -8,7 +8,7 @@
 | [[#Chef]]        | [[#Guard]]          | [[#Sailor]]    |
 | [[#Criminal]]    | [[#Guide]]          | [[#Scavenger]] |
 | [[#Entertainer]] | [[#Hunter]]         | [[#Soldier]]   |
-#### Acolyte
+#### [[Acolyte]]
 ---
 - **Ability Scores:** Intelligence, Wisdom, Charisma
 - **Feat:** Magic Initiate (Cleric)
@@ -18,7 +18,7 @@
 
 You've devoted yourself to service in a [[Batfolk]] church or secluded grove. There, you perform rites that honor your ancestors and the Cosmos. You've served under a Cleric and studied religion. Thanks to your Cleric's instruction and your devotion, you've also learned how to channel a modicum of divine, cosmic power in service to your place of worship and the people who prayed there.
 
-#### Archivist
+#### [[Archivist]]
 ---
 - **Ability Scores:** Constitution, Intelligence, Wisdom
 - **Feat:** Magic Initiate (Wizard)
@@ -28,7 +28,7 @@ You've devoted yourself to service in a [[Batfolk]] church or secluded grove. Th
 
 You spent your formative years in the [[The Knowledge Ossuary]], the subterranean archive of Bloomburrow's history kept by the [[Ratfolk]]. The [[Long River]] brings flotsam of artifacts and forgotten lore to the [[The Knowledge Ossuary|Ossuary]], and you've spent many a restless night studying trinkets and scrolls. Your mind was sharpened in the archive, and you're ready to put your knowledge to use.
 
-#### Artisan
+#### [[Artisan]]
 ---
 - **Ability Scores:** Strength, Dexterity, Intelligence
 - **Feat:** Crafter (see [chapter 7](https://www.gmbinder.com/share/-N5u7p3S1KlSgC6GQgBg#p54))
@@ -38,7 +38,7 @@ You spent your formative years in the [[The Knowledge Ossuary]], the subterranea
 
 You began mopping floors and scrubbing counters in an artisan's workshop for a few acorns per day as soon as you were strong enough to carry a bucket. When you were old enough to apprentice, you learned to create basic crafts of your own, how to barter, and you've developed a keen eye for detail and value.
 
-#### Caretaker
+#### [[Caretaker]]
 ---
 - **Ability Scores:** Constitution, Wisdom, Charisma
 - **Feat:** Healer
@@ -48,7 +48,7 @@ You began mopping floors and scrubbing counters in an artisan's workshop for a f
 
 You've always had a level head and a knack for helping in dire situations. Perhaps you were raised in a large, busy family, or perhaps a crisis occurred when you were young that you jumped to solve. Once older, you tutored under a Cleric or folk healer, learning how to identify healing herbs and how to apply medicine and care to all the different species of Bloomburrow.
 
-#### Chef
+#### [[Chef]]
 ---
 - **Ability Scores:** Constitution, Intelligence, Wisdom
 - **Feat:** Chef (see [chapter 7](https://www.gmbinder.com/share/-N5u7p3S1KlSgC6GQgBg#p54))
@@ -58,7 +58,7 @@ You've always had a level head and a knack for helping in dire situations. Perha
 
 You practically grew up in a kitchen, helping elders by preparing meals from a very young age. You've become familiar with many ingredients, and have developed an innate intuition on how to combine them into delicious dishes. Perhaps you've found work in a restaurant in a village or roadside inn.
 
-#### Criminal
+#### [[Criminal]]
 ---
 - **Ability Scores:** Dexterity, Constitution, Intelligence
 - **Feat:** Alert
@@ -68,7 +68,7 @@ You practically grew up in a kitchen, helping elders by preparing meals from a v
 
 You eked out a living cutting purses or burgling shops. Perhaps you grew up in the dark alleys of a large settlement like [[Three-Tree City]], or perhaps you turned to banditry on the roads between towns. You may have run with a mercenary gang, like [[Cruelclaw]]'s infamous [[Direshade Company]]
 
-#### Entertainer
+#### [[Entertainer]]
 ---
 - **Ability Scores:** Strength, Dexterity, Charisma
 - **Feat:** Musician (see [chapter 7](https://www.gmbinder.com/share/-N5u7p3S1KlSgC6GQgBg#p54))
@@ -78,7 +78,7 @@ You eked out a living cutting purses or burgling shops. Perhaps you grew up in t
 
 You spent much of your youth following [[Batfolk]] bards and [[Otterfolk]] acrobats, performing odd jobs in exchange for lessons. You've developed your own routine or performance, and you thrive on applause and long for the stage.
 
-#### Farmer
+#### [[Farmer]]
 ---
 - **Ability Scores:** Strength, Constitution, Wisdom
 - **Feat:** Tough
@@ -88,7 +88,7 @@ You spent much of your youth following [[Batfolk]] bards and [[Otterfolk]] acrob
 
 You grew up close to the land, perhaps a [[Rabbitfolk]] garden or [[Squirrelfolk]] food reserve. Years tending insects and cultivating the earth rewarded you with patience and good health. You have a keen appreciate for nature's bounty and a healthy respect for nature's wrath.
 
-#### Fisherman
+#### [[Fisherman]]
 ---
 - **Ability Scores:** Strength, Constitution, Wisdom
 - **Feat:** Lucky
@@ -98,7 +98,7 @@ You grew up close to the land, perhaps a [[Rabbitfolk]] garden or [[Squirrelfolk
 
 You have spent your life aboard fishing boats on the [[Long River]] or combing the shallows for the bounty of the ocean. Perhaps you were taught by a family of [[Frogfolk]] or [[Otterfolk]], working to help feed your village. Regardless of how you began, you soon fell in love with the water, the art of fishing, and the promise of the eternal horizon.
 
-#### Fortune Teller
+#### [[Fortune Teller]]
 ---
 - **Ability Scores:** Dexterity, Wisdom, Charisma
 - **Feat:** Ritual Augur (see [chapter 7](https://www.gmbinder.com/share/-N5u7p3S1KlSgC6GQgBg#p54))
@@ -108,7 +108,7 @@ You have spent your life aboard fishing boats on the [[Long River]] or combing t
 
 When you were but a child, you experienced a vision of the future that came to pass. Sensing your potential, you were brought under the wing of a [[Frogfolk]] auger or [[Batfolk]] stargazer, and learned the patterns behind the chaos of the movement of the stars and [[Calamity Beasts]]. You've also been taught how to divine the future with the use of arcane tools. Your adventure begins when you receive another vision...
 
-#### Guard
+#### [[Guard]]
 ---
 - **Ability Scores:** Strength, Intelligence, Wisdom
 - **Feat:** Alert
@@ -118,7 +118,7 @@ When you were but a child, you experienced a vision of the future that came to p
 
 You've spent countless hours in your post at the guard tower in a large settlement, perhaps [[Three-Tree City]] or [[Fountainport]]. You were trained to keep one eye looking outside the wall, watching for signs of [[Calamity Beasts]], and your other eye looking inside the wall, searching for bandits and troublemakers.
 
-#### Guide
+#### [[Guide]]
 ---
 - **Ability Scores:** Dexterity, Constitution, Wisdom
 - **Feat:** Alert
@@ -129,7 +129,7 @@ You've spent countless hours in your post at the guard tower in a large settleme
 
 You came of age outdoors, far from settled lands. Your home was anywhere you chose to spread your bedroll. There are wonders in [[Valley]]'s wilderness—strange insects, [[Calamity Beasts]], overgrown ruins—and you learned to fend for yourself as you explored them. From time to time, you've found work as a courier, wilderness guide, or insect hunter.
 
-#### Innkeeper
+#### [[Innkeeper]]
 ---
 - **Ability Scores:** Intelligence, Wisdom, Charisma
 - **Feat:** Tough
@@ -139,7 +139,7 @@ You came of age outdoors, far from settled lands. Your home was anywhere you cho
 
 You spent much of your youth scrubbing floors and counters at a local inn for spare coin, and you soon became a popular regular fixture at the establishment. You were taken under the wing of the establishment's owner, and were taught how to run the business and sweet talk your patrons. You've even learned a few recipes for brewing spirits.
 
-#### Merchant
+#### [[Merchant]]
 ---
 - **Ability Scores:** Constitution, Intelligence, Charisma
 - **Feat:** Lucky
@@ -149,7 +149,7 @@ You spent much of your youth scrubbing floors and counters at a local inn for sp
 
 You were apprenticed to a trader, caravan master, or shopkeeper, learning the fundamentals of commerce. You traveled broadly, and you earned a living by buying and selling the raw materials artisans need to practice their crafts, or finished works from such crafters. You might have transported goods from one place to another (by ship, wagon, or caravan) or bought them from traveling traders and sold them in your own shop.
 
-#### Noble
+#### [[Noble]]
 ---
 - **Ability Scores:** Strength, Intelligence, Charisma
 - **Feat:** Skilled
@@ -159,7 +159,7 @@ You were apprenticed to a trader, caravan master, or shopkeeper, learning the fu
 
 There is no single authority in [[Valley]], with individual settlements having mayors or councils. You were raised as the heir of one such nobleman, surrounded by wealth, power, and privilege. Your family ensured that you received a first-class education in history and diplomacy, and it was always expected that you would one day fulfill a position of leadership.
 
-#### Sailor
+#### [[Sailor]]
 ---
 - **Ability Scores:** Strength, Dexterity, Wisdom
 - **Feat:** Tavern Brawler (see [chapter 7](https://www.gmbinder.com/share/-N5u7p3S1KlSgC6GQgBg#p54))
@@ -169,7 +169,7 @@ There is no single authority in [[Valley]], with individual settlements having m
 
 You lived on the [[Long River]] that cuts across [[Valley]], wind at your back and decks swaying beneath your feet. You were raised alongside [[Otterfolk]] sailors, or perhaps pirates, and perched on barstools in more ports of call than you can remember. Along the river you've faced mighty storms, enormous river creatures, and even pirate crews.
 
-#### Scavenger
+#### [[Scavenger]]
 ---
 - **Ability Scores:** Dexterity, Wisdom, Charisma
 - **Feat:** Lucky
@@ -179,7 +179,7 @@ You lived on the [[Long River]] that cuts across [[Valley]], wind at your back a
 
 You grew up on the fringes of society, perhaps on the streets of a settlement like [[Three-Tree City]], or perhaps on the outskirts of villages. You slept where you could and did odd jobs for food. You've learned to take what's been discarded or left unused, never letting anything go to waste.
 
-#### Soldier
+#### [[Soldier]]
 ---
 - **Ability Scores:** Strength, Dexterity, Constitution
 - **Feat:** Savage Attacker

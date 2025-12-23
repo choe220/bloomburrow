@@ -1,5 +1,3 @@
-# Pool of Ancient Memories
-
 *Wondrous item, rare*
 
 ---

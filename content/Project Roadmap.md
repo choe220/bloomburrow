@@ -35,5 +35,14 @@ Here is a list of potential areas to flesh out, based on an analysis of the exis
 - **Goal:** Make all game elements accessible and easy to read in a consistent Markdown format.
 - **Tasks:**
     - Convert the custom **Spells** from `Bloomburrow.json` into a dedicated Markdown file.
-    - Convert the custom **Feats** from `Bloomburrow.json` into a dedicated Markdown file.
+    - Convert the custom **Feats** from `Blobburrow.json` into a dedicated Markdown file.
     - Convert the custom **Backgrounds** from `Bloomburrow.json` into individual Markdown files.
+
+### 5. DM Utilities
+- **Goal:** Build tools to make building out the world easy for the DM.
+- **Tasks:**
+    - Create a JSON file for name generation by species.
+    - Create a JSON file for shop/town location names generation by area.
+    - Create a JSON file for random Bloomburrow loot by type.
+    - Create a JSON file for NPC generation random variations.
+    - Any other relevant tooling file.

@@ -1,5 +1,3 @@
-# Murky River-Stone
-
 *Wondrous item, uncommon (requires attunement)*
 
 ---
