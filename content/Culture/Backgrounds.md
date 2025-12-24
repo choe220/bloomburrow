@@ -1,6 +1,6 @@
 ![[Scavenger Raccoonfolk.png]]
 
-|                  |                     |                |
+| ---              | ---                 | ---            |
 | ---------------- | ------------------- | -------------- |
 | [[#Archivist]]   | [[#Farmer]]         | [[#Innkeeper]] |
 | [[#Artisan]]     | [[#Fisherman]]      | [[#Merchant]]  |
