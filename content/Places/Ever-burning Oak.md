@@ -1,1 +1,1 @@
-A once great oak that was split by [[Creatures/Wildsear|Wildsear's]] fire and lightning and still smolders generations later. It is revered by [[lizardfolk]] and used by artisans as a power source.
+A once great oak that was split by [[Species/Calamity Beasts/Wildsear|Wildsear's]] fire and lightning and still smolders generations later. It is revered by [[lizardfolk]] and used by artisans as a power source.

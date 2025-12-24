@@ -14,6 +14,9 @@ Lizardfolk are the only [[animalfolk]] that are not native to [[Valley]]. Many 
 
 Lizards have a spiritual attachment to fire. As cold-blooded creatures, they rely on the heat of flame when sunbathing is not an option. Every lizardfolk community has a central ﬁre source, whether it is a village hearth, a mystical ember, or a forge. Rituals, like dancing, singing, or just basking in front of their community furnace or the one in their home, are part of everyday lizardfolk spiritual life. They worship the [[Ever-burning Oak]], considering it a symbol of the cycle of creation and destruction. Young lizardfolk journey to the tree, collecting a smoldering ember from its center with their bare hands. Blacksmiths use these embers to fuel their forges, and assassins keep their embers with them in uniquely crafted ceramic, metal, or glass containers. Though the heat eventually fades, an ember's powerful magic lasts nearly a lizardfolk's whole life; when their ember goes out, a lizardfolk knows they will die soon. They are also known to make pilgrimages to the [[Forest of Iron]]. Lizardfolk magic typically revolves around the use of ﬁre. Some lizardfolk arts even allow them to channel venom into their flames.
 
+# Location in Valley
+As masters of the forge and creatures of warmth, Lizardfolk have built their main settlement in [[Rockface Village]], where they work the [[Emberheart Forge]]. They also make pilgrimages to the [[Ever-burning Oak]] and can be found in the rocky hills near the [[Forest of Iron]].
+
 Subspecies:
 - Frilled Lizards
 - Gecko

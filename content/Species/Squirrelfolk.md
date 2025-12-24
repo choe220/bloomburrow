@@ -15,6 +15,9 @@ Squirrelfolk possess stealthy martial skills that let them excel as silent, unse
 
 ![[Squirrelfolk2.png]]
 
+# Location in Valley
+The center of Squirrelfolk culture is the [[Calamity Graveyard]], where they act as morbid stewards of the remains of the great beasts. Their villages are often built in and around the massive bones found there, with a significant settlement in [[Oakhollow Village]] which borders the graveyard.
+
 # Squirrelfolk Traits
 **Creature Type:** Humanoid
 **Size:** Small (about 8-18 inches tall)

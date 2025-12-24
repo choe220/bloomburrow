@@ -9,11 +9,13 @@ This file tracks major development areas for the Bloomburrow campaign setting.
 
 Here is a list of potential areas to flesh out, based on an analysis of the existing material.
 
-### 1. Detailed Faction Guides
-- **Goal:** Expand on the existing factions (e.g., Stormchasers, Plumecreed, Brightblades) to make them fully interactive parts of the campaign.
+### 1. Government and Faction Development
+- **Goal:** Establish a clear and interactive political and social landscape, defining both the overarching governmental structure of Valley and the specific roles and dynamics of its various factions.
 - **Tasks:**
-    - Define clear goals, motivations, allies, and enemies for each faction.
-    - Create a system for player membership, including ranks, renown, and mechanical benefits.
+    - Define the structure and members of the Valley Council and local governments.
+    - Detail the hierarchy, responsibilities, and decision-making processes within the government.
+    - Expand on existing factions (e.g., Stormchasers, Plumecreed, Brightblades) with clear goals, motivations, allies, and enemies.
+    - Create a system for player interaction with government and factions, including ranks, renown, and mechanical benefits.
     - Develop faction-specific quest hooks and NPCs.
 
 ### 2. In-Depth Location Guides

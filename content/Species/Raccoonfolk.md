@@ -7,6 +7,10 @@ Rather than settling down in [[Three-Tree City]] or elsewhere, raccoonfolk spend
 Raccoonfolk learn to use their magic to empower themselves and the natural world around them. Extremely skilled raccoonfolk druids can even animate the natural environment. They are known to ride mobile hedges.
 
 ![[Raccoonfolk2.png]]
+
+# Location in Valley
+As natural wanderers, Raccoonfolk can be found anywhere and everywhere. They don't maintain large settlements, but they are a frequent sight on the roads between towns, and are known to camp near ancient ruins and other places of interest.
+
 # Raccoonfolk Traits
 **Creature Type:** Humanoid
 **Size:** Small (about 1–2 feet tall)

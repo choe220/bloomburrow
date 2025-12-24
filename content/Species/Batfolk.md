@@ -17,6 +17,8 @@ At the end of each of the four moon phases, batfolk across [[Valley]] host a cel
 
 Twice a day, mirrors reﬂect light from the sun and moon into a massive opaline gem embedded in the center of the [[Lighttrap Spires]]. There, an elder batfolk trades their sight for vision of the realms beyond [[Valley]]. Their eyes are subsequently ﬁlled with a unique nebula-like pattern that marks their ascension to the upper ranks of the priesthood.
 
+# Location in Valley
+Batfolk communities are most prominent in the [[Lighttrap Spires]], where they maintain their celestial observatories. They are also found in [[Goodhill]], where their pole-mounted homes form a "high town" above the rest of the village.
 
 # Batfolk Traits
 **Creature Type:** Humanoid

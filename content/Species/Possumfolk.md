@@ -10,6 +10,9 @@ Possumfolk are a jovial group of [[animalfolk]] with a love for nature and a pas
 
 Possumfolk make excellent guides to the wilds, often having detailed knowledge and maps of certain areas, and knowing the best places to stop and rest. Many operate as Druids and Rangers, leading others through the wilds and finding ways to live at peace with nature.
 
+# Location in Valley
+True nomads, Possumfolk rarely stay in one place for long. They can be encountered anywhere in the wilds of [[Valley]], from the [[Outer Woods]] to the southern plains, always on the move and always with their family in tow.
+
 # Possumfolk Traits
 **Creature Type:** Humanoid
 **Size:** Small (about 2–3 feet tall)

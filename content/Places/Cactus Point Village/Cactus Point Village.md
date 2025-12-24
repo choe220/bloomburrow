@@ -2,3 +2,6 @@ Cactus Point is a stubborn settlement built into the shadows of towering saguaro
 
 The primary inhabitants include gerbilfolk (a subspecies of [[mousefolk]] with long hind legs for hopping across the hot sand, strong digging claws for burrowing, and an ability to conserve water efficiently), [[Lizardfolk|lizardfolk]], and some [[Batfolk|batfolk]]. [[Raccoonfolk]] wander through, seeking relics of long-forgotten desert ruins. Traders stop in to resupply and trade water, tools, and stories before moving on.
 
+# Government
+The lord of Cactus Point Village is [[Lord Needle]], a resilient gerbilfolk. They represent the village on the [[Valley Council]].
+

@@ -14,6 +14,9 @@ Mousefolk are expert at using spells to augment their speed and strength. They 
 
 Generations before the [[Omenpath]] Era, the mousefolk [[Lily Emberseed]] repelled the [[Calamity Beasts]], ending the [[History#War of Cinders|War of Cinders]].
 
+# Location in Valley
+Mousefolk are one of the most widespread and numerous species in [[Valley]]. Their large, tight-knit families can be found in almost every settlement, with significant communities thriving in [[Goodhill]], [[Oakhollow Village]], and [[Lupinflower Village]].
+
 # Mousefolk Traits
 **Creature Type:** Humanoid
 **Size:** Small (about 3–7 inches tall)

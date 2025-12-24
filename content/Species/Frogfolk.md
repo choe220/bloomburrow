@@ -10,6 +10,10 @@ Frogs are one of the [[animalfolk]] of [[Valley]], known for their prowess with
 Frogfolk are also highly knowledgeable elementalists. They maintain a uniquely symbiotic relationship with the land they live on, preferring to slowly shape the direction of plant growth and maintain a complex ecosystem rather than utilize traditional farming methods. Frogfolk don’t plant crops but rather change the environment around them to encourage certain ﬂora to grow. Their magic revolves around the use of water, something they always carry at their sides in some way or another. Flinging droplets or causing a wave of water are common spells. Many frogfolk can also use their water magic and augury magic to create portals.
 
 ![[Frogfolk2.png]]
+
+# Location in Valley
+The vast majority of [[Valley|Valley's]] Frogfolk live in the aquatic city of [[Fountainport]], though smaller communities can be found in the marshes near [[Oakhollow Village]] and around the [[Lilyglow Pond]].
+
 # Frogfolk Traits
 **Creature Type:** Humanoid
 **Size:** Small (about 2–6 inches tall)

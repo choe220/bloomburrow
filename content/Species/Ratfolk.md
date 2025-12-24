@@ -16,6 +16,10 @@ Ratfolk worship the [[Fell Comet]], a floating comet above an underground pond 
 ![[Ratfolk 1.png]]
 ![[Ratfolk 2.png]]
 ![[Ratfolk 3.png]]
+
+# Location in Valley
+Ratfolk are a reclusive species, making their homes in vast, subterranean libraries and archives known as Knowledge Ossuaries. The largest of these is [[The Knowledge Ossuary]], located deep beneath the marshes of [[Valley]].
+
 # Ratfolk Traits
 **Creature Type:** Humanoid
 **Size:** Small (about 6–8 inches tall)

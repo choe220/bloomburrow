@@ -1,5 +1,7 @@
 ![[Places/Images/Map of Valley.jpg]]
-The rural and vibrant home of the plane's animalfolk. A small region in the larger plane of Bloomburrow, [[Valley]] is a temperate stretch of land, home to a diverse array of wildlife and natural landmarks. Within [[Valley]] are five biomes: meadows, ponds, marshes, hills, and thickets. Meadows are characterized by flowers and grasses dotted with [[animalfolk]] farms. Ponds are freshwater, fed by rainfall, and are popular locations for ﬁshing. Marshes teem with insect life, especially in the tunnels and subterranean caverns below. The hills have sparse flora, and their ample sunlight warms [[Valley]]'s [[lizardfolk]]. Forests are lush, holding enormous, ancient trees that house cities of [[animalfolk]]. The lands outside [[Valley]]'s villages and towns are known as the **[[Brambles]]**.
+
+---
+The rural and vibrant home of the plane's animalfolk. A small region in the larger plane of Bloomburrow, [[Valley]] is a temperate stretch of land, home to a diverse array of wildlife and natural landmarks. Within [[Valley]] are five biomes: meadows, ponds, marshes, hills, and thickets. Meadows are characterized by flowers and grasses dotted with [[animalfolk]] farms. Ponds are freshwater, fed by rainfall, and are popular locations for ﬁshing. Marshes teem with insect life, especially in the tunnels and subterranean caverns below. The hills have sparse flora, and their ample sunlight warms [[Valley]]'s [[lizardfolk]]. Forests are lush, holding enormous, ancient trees that house cities of [[animalfolk]]. The lands outside [[Valley]]'s villages and towns are known as the [[Brambles]].
 
 # Locations
 | Places                    |
@@ -40,6 +42,7 @@ The rural and vibrant home of the plane's animalfolk. A small region in the lar
 | [[Sunflower Sanctum]]     |
 | [[The Hanging Gardens]]   |
 | [[The Knowledge Ossuary]] |
+| [[The Sunken Lyceum]]     |
 | [[The Whispering Grove]]  |
 | [[Three-Tree City]]       |
 | [[Tip of the World]]      |

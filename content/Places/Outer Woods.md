@@ -1,1 +1,1 @@
-The lands surrounding [[Valley]]. Little is known about these lands. [[Creatures/Wildsear]] fled to the Outer Woods after [[Lily Emberseed|Lily of Valley]] defeated it.
+The lands surrounding [[Valley]]. Little is known about these lands. [[Species/Calamity Beasts/Wildsear|Wildsear]] fled to the Outer Woods after [[Lily Emberseed|Lily of Valley]] defeated it.

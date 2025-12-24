@@ -27,11 +27,11 @@ Bloomburrow has no natural seasons. Instead, seasons are brought on by the appea
 | The [[Season of Salt]]        | [[Species/Calamity Beasts/Ygra]]                |
 | The [[Season of Drought]]     | [[Species/Calamity Beasts/Sunspine Lynx]]       |
 | The [[Season of the Maze]]    | [[Species/Calamity Beasts/Lumra]]               |
-[[Species/Calamity Beasts/Baleful Strix]]
-[[Species/Calamity Beasts/Fecund Greenshell]]
-[[Species/Calamity Beasts/Hivespine Wolverine]]
-[[Species/Calamity Beasts/Swarm of Huskbursters]]
-[[Species/Calamity Beasts/Quaketusk Boar]]
-[[Species/Calamity Beasts/Rottenmouth Viper]]
-[[Species/Calamity Beasts/Sandcloud Harbinger]]
+[[Species/Calamity Beasts/Baleful Strix|Baleful Strix]]
+[[Species/Calamity Beasts/Fecund Greenshell|Fecund Greenshell]]
+[[Species/Calamity Beasts/Hivespine Wolverine|Hivespine Wolverine]]
+[[Species/Calamity Beasts/Swarm of Huskbursters|Swarm of Huskbursters]]
+[[Species/Calamity Beasts/Quaketusk Boar|Quaketusk Boar]]
+[[Species/Calamity Beasts/Rottenmouth Viper|Rottenmouth Viper]]
+[[Species/Calamity Beasts/Sandcloud Harbinger|Sandcloud Harbinger]]
 

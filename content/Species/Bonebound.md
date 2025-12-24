@@ -12,6 +12,9 @@ While most Bonebound are mindless servants, particularly powerful magic, or spel
 
 Bonebound are not welcome in [[Valley]] society, and are instead found on its outskirts. They are most often servants of a [[Squirrelfolk]] Necromancer, but free-minded Bonebound scavenge roads and resort to monstrous banditry.
 
+# Location in Valley
+Being undead, Bonebound are not welcome in civilized society. They are most often found in the service of [[Squirrelfolk]] necromancers near the [[Calamity Graveyard]], or as wandering threats in the [[Outer Woods]] and other remote areas.
+
 # Bonebound Traits
 **Creature Type:** Undead
 **Size:** Medium (about 4-6 feet tall) or Small (about 0.5–4 feet tall), chosen when you select this species

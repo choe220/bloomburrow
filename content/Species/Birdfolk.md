@@ -16,6 +16,9 @@ Many birdfolk take part in a tradition known as the [[Plumecreed]] at the [[Tip 
 ![[Birdfolk.png]]
 ![[Birdfolk2.png]]
 
+# Location in Valley
+Birdfolk are found throughout [[Valley]], their settlements, known as Perches, are built in high, defensible locations. They are a common sight in the canopy of [[Three-Tree City]] and maintain a significant cultural site at the [[Tip of the World]], where their most skilled flyers compete.
+
 Subspecies:
 - Crows
 - Finches

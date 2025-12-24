@@ -1,3 +1,3 @@
-Moonstone is a rare, **luminous mineral** found in meteorites that fall from the sky during significant celestial events. The [[Batfolk]] believe these meteorites are tears of the moon, falling to [[Valley]] during the [[Lunar Paean]] or other cosmic disturbances.
+Moonstone is a rare, luminous mineral found in meteorites that fall from the sky during significant celestial events. The [[Batfolk]] believe these meteorites are tears of the moon, falling to [[Valley]] during the [[Lunar Paean]] or other cosmic disturbances.
 
-Buried in Ancient Ruins – Some moonstones are said to have been forged into weapons long ago, before the [[War of Cinders]].  Squirrelfolk whisper of forgotten crypts where moonstone blades still gleam in the dark.
+Buried in Ancient Ruins - Some moonstones are said to have been forged into weapons long ago, before the [[War of Cinders]].  Squirrelfolk whisper of forgotten crypts where moonstone blades still gleam in the dark.

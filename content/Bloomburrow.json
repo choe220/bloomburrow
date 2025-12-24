@@ -9634,5 +9634,1120 @@
 			}
 		]
 	}
+  ],
+  "item": [
+    {
+      "name": "Calming Lavender Sachet",
+      "source": "BloomburrowCampaignSetting",
+      "type": "FD",
+      "rarity": "common",
+      "entries": [
+        "This small cloth pouch is filled with dried lavender flowers. When opened, it releases a soothing aroma that calms the mind. While carrying this sachet, you have advantage on saving throws against being frightened."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Acorn Scones",
+      "type": "G",
+      "rarity": "none",
+      "value": 3,
+      "entries": [
+        "Nutty, slightly sweet, best served warm with jam."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Beetle Crackers",
+      "type": "G",
+      "rarity": "none",
+      "value": 2,
+      "entries": [
+        "Crunchy, protein-rich wafers, often eaten with cheese or fruit spreads."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Carrot Cake (slice)",
+      "type": "G",
+      "rarity": "none",
+      "value": 5,
+      "entries": [
+        "Spiced and moist, topped with a drizzle of honey glaze."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Carrot Muffin",
+      "type": "G",
+      "rarity": "none",
+      "value": 3,
+      "entries": [
+        "Soft muffin with a hint of cinnamon, popular among travelers."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Elderberry Jam Thumbprint Cookies (3)",
+      "type": "G",
+      "rarity": "none",
+      "value": 4,
+      "entries": [
+        "Buttery cookies with a tart elderberry jam center."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Seedcake or Seedloaf",
+      "type": "G",
+      "rarity": "none",
+      "value": 5,
+      "entries": [
+        "Dense and filling, made with sunflower, flax, and pumpkin seeds."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Strawberry Cake (slice)",
+      "type": "G",
+      "rarity": "none",
+      "value": 6,
+      "entries": [
+        "Light sponge cake layered with fresh strawberries and cream."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Strawberry Cookies (3)",
+      "type": "G",
+      "rarity": "none",
+      "value": 3,
+      "entries": [
+        "Soft, chewy cookies with bits of dried strawberries."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Strawberry Crumble",
+      "type": "G",
+      "rarity": "none",
+      "value": 5,
+      "entries": [
+        "Warm and comforting, served with a drizzle of honey."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Strawberry Rhubarb Muffin",
+      "type": "G",
+      "rarity": "none",
+      "value": 4,
+      "entries": [
+        "A perfect balance of sweet and tart."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Strawberry Tarts",
+      "type": "G",
+      "rarity": "none",
+      "value": 5,
+      "entries": [
+        "Flaky pastry shells filled with ripe strawberries and sugar."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Sunflower Seed Scones",
+      "type": "G",
+      "rarity": "none",
+      "value": 3,
+      "entries": [
+        "Savory, with a light crunch from roasted sunflower seeds."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Treacle (jar)",
+      "type": "G",
+      "rarity": "none",
+      "value": 6,
+      "entries": [
+        "Thick, dark syrup used as a sweetener or spread."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Flatbread",
+      "type": "G",
+      "rarity": "none",
+      "value": 4,
+      "entries": [
+        "A savory flatbread with vegetables baked into the top"
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Dandelion & Turnip Green Salad",
+      "type": "G",
+      "rarity": "none",
+      "value": 4,
+      "entries": [
+        "Fresh, slightly bitter greens with herbs and nuts."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Grilled Minnows (skewer)",
+      "type": "G",
+      "rarity": "none",
+      "value": 5,
+      "entries": [
+        "Crispy, seasoned with herbs and served with tangy sauce."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Blackberry Punch (cup)",
+      "type": "G",
+      "rarity": "none",
+      "value": 3,
+      "entries": [
+        "A deep, fruity drink served cool or warm."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Cherry Jam (jar)",
+      "type": "G",
+      "rarity": "none",
+      "value": 4,
+      "entries": [
+        "Rich and sweet, perfect for spreading on scones."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Elderberry Jam (jar)",
+      "type": "G",
+      "rarity": "none",
+      "value": 5,
+      "entries": [
+        "Dark and tart, said to ward off sickness."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Raspberry Jam (jar)",
+      "type": "G",
+      "rarity": "none",
+      "value": 4,
+      "entries": [
+        "Bright and sweet with a touch of tang."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Chamomile Fizzy Drink (bottle)",
+      "type": "G",
+      "rarity": "none",
+      "value": 3,
+      "entries": [
+        "Lightly sweet, bubbly, known for its calming effects."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Chamomile Tea (cup)",
+      "type": "G",
+      "rarity": "none",
+      "value": 2,
+      "entries": [
+        "A soothing floral brew, perfect before rest."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Mint Tea (cup)",
+      "type": "G",
+      "rarity": "none",
+      "value": 2,
+      "entries": [
+        "Refreshing and crisp, often served after meals."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Mugwort Tea (cup)",
+      "type": "G",
+      "rarity": "none",
+      "value": 3,
+      "entries": [
+        "Earthy and slightly bitter, known to bring vivid dreams."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Bee Balm (bundle)",
+      "type": "G",
+      "rarity": "none",
+      "value": 1,
+      "entries": [
+        "Used in teas and salves."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Beets (basket)",
+      "type": "G",
+      "rarity": "none",
+      "value": 3,
+      "entries": [
+        "Earthy and slightly sweet."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Blackberries (handful)",
+      "type": "G",
+      "rarity": "none",
+      "value": 2,
+      "entries": [
+        "Juicy and rich in flavor."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Blueberries (handful)",
+      "type": "G",
+      "rarity": "none",
+      "value": 2,
+      "entries": [
+        "Tart and used in desserts."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Cabbage (head)",
+      "type": "G",
+      "rarity": "none",
+      "value": 4,
+      "entries": [
+        "Farmed in colder seasons, sometimes enchanted into constructs."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Caraway (pouch)",
+      "type": "G",
+      "rarity": "none",
+      "value": 1,
+      "entries": [
+        "Used for cooking and teas."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Carrots (bundle)",
+      "type": "G",
+      "rarity": "none",
+      "value": 3,
+      "entries": [
+        "Farmed in colder seasons, crisp and sweet."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Cattails (bundle)",
+      "type": "G",
+      "rarity": "none",
+      "value": 2,
+      "entries": [
+        "Roots and pollen used in soups and baking."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Chamomile (bundle)",
+      "type": "G",
+      "rarity": "none",
+      "value": 2,
+      "entries": [
+        "Used for tea and medicinal purposes."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Cherries (basket)",
+      "type": "G",
+      "rarity": "none",
+      "value": 4,
+      "entries": [
+        "Sweet and tart, used in jams."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Chili Peppers (bundle)",
+      "type": "G",
+      "rarity": "none",
+      "value": 3,
+      "entries": [
+        "Spicy and used in cooking."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Cinnamon (stick)",
+      "type": "G",
+      "rarity": "none",
+      "value": 5,
+      "entries": [
+        "Imported, used for spiced dishes."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Cloves (pouch)",
+      "type": "G",
+      "rarity": "none",
+      "value": 4,
+      "entries": [
+        "Aromatic and used in teas."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Corpseberry (handful)",
+      "type": "G",
+      "rarity": "rare",
+      "value": 0,
+      "entries": [
+        "Rare, possibly cursed, found near the Calamity Graveyard."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Cranberries (handful)",
+      "type": "G",
+      "rarity": "none",
+      "value": 3,
+      "entries": [
+        "Tart and used in preserves."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Daisies (bundle)",
+      "type": "G",
+      "rarity": "none",
+      "value": 1,
+      "entries": [
+        "Edible and used in light healing salves."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Dandelions (bundle)",
+      "type": "G",
+      "rarity": "none",
+      "value": 1,
+      "entries": [
+        "Leaves for salads, roots for tea."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Elderberries (handful)",
+      "type": "G",
+      "rarity": "none",
+      "value": 3,
+      "entries": [
+        "Used for syrups and healing tonics."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Ferns (bundle)",
+      "type": "G",
+      "rarity": "none",
+      "value": 2,
+      "entries": [
+        "Young fronds used in cooking."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Firethorn Berries",
+      "type": "G",
+      "rarity": "none",
+      "value": 4,
+      "entries": [
+        "Tart, sometimes fermented."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Foxglove (bundle)",
+      "type": "G",
+      "rarity": "none",
+      "value": 7,
+      "entries": [
+        "Dangerous, used in rare potions."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Glowberries (handful)",
+      "type": "G",
+      "rarity": "none",
+      "value": 6,
+      "entries": [
+        "Luminescent, found in deep forests."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Hedge Parsley (bundle)",
+      "type": "G",
+      "rarity": "none",
+      "value": 1,
+      "entries": [
+        "Used in cooking."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Holly Berries (handful)",
+      "type": "G",
+      "rarity": "none",
+      "value": 5,
+      "entries": [
+        "Mildly toxic, used in rituals."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Ironroot Sap (vial)",
+      "type": "G",
+      "rarity": "none",
+      "value": 10,
+      "entries": [
+        "Can be smelted into metal-like material."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Ivy (bundle)",
+      "type": "G",
+      "rarity": "none",
+      "value": 1,
+      "entries": [
+        "Decorative, sometimes used in poultices."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Mint (bundle)",
+      "type": "G",
+      "rarity": "none",
+      "value": 2,
+      "entries": [
+        "Used in teas and tonics."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Mugwort (bundle)",
+      "type": "G",
+      "rarity": "none",
+      "value": 2,
+      "entries": [
+        "Used in teas and dream potions."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Mustard Seeds (pouch)",
+      "type": "G",
+      "rarity": "none",
+      "value": 3,
+      "entries": [
+        "For spice and medicinal use."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Nettles (bundle)",
+      "type": "G",
+      "rarity": "none",
+      "value": 2,
+      "entries": [
+        "For teas and soups, stingers removed."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Partridge Berries",
+      "type": "G",
+      "rarity": "none",
+      "value": 3,
+      "entries": [
+        "Tart and often made into jellies."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Peppers (basket)",
+      "type": "G",
+      "rarity": "none",
+      "value": 4,
+      "entries": [
+        "Farmed in warm seasons."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Pinecones (bundle)",
+      "type": "G",
+      "rarity": "none",
+      "value": 1,
+      "entries": [
+        "Used for fire-starting and crafts."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Potatoes (bundle)",
+      "type": "G",
+      "rarity": "none",
+      "value": 3,
+      "entries": [
+        "Staple root vegetable."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Primrose (handful)",
+      "type": "G",      
+      "rarity": "none",
+      "value": 2,
+      "entries": [
+        "Used in light healing tinctures."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Radishes (bundle)",
+      "type": "G",
+      "rarity": "none",
+      "value": 3,
+      "entries": [
+        "Farmed in colder seasons."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Raspberries (handful)",
+      "type": "G",
+      "rarity": "none",
+      "value": 2,
+      "entries": [
+        "Sweet and tart."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Rhubarb (bundle)",
+      "type": "G",
+      "rarity": "none",
+      "value": 3,
+      "entries": [
+        "Often paired with strawberries."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Seaweed (bundle)",
+      "type": "G",
+      "rarity": "none",
+      "value": 2,
+      "entries": [
+        "Dried for travel rations."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Soapwort (bundle)",
+      "type": "G",
+      "rarity": "none",
+      "value": 3,
+      "entries": [
+        "Used in natural soaps."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Spring Onions (bundle)",
+      "type": "G",
+      "rarity": "none",
+      "value": 3,
+      "entries": [
+        "Farmed in warm seasons."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Squash (bundle)",
+      "type": "G",
+      "rarity": "none",
+      "value": 4,
+      "entries": [
+        "Hardy and nutritious."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Starflower (handful)",
+      "type": "G",
+      "rarity": "none",
+      "value": 2,
+      "entries": [
+        "Used in dyes and alchemy."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Strawberries (handful)",
+      "type": "G",
+      "rarity": "none",
+      "value": 2,
+      "entries": [
+        "Sweet and juicy."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Sumac (bundle)",
+      "type": "G",
+      "rarity": "none",
+      "value": 3,
+      "entries": [
+        "Used in spice blends and teas."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Turnips (bundle)",
+      "type": "G",
+      "rarity": "none",
+      "value": 3,
+      "entries": [
+        "A staple root vegetable."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Water Lilies (bundle)",
+      "type": "G",
+      "rarity": "none",
+      "value": 3,
+      "entries": [
+        "Used in herbal infusions."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Watercress (bundle)",
+      "type": "G",
+      "rarity": "none",
+      "value": 2,
+      "entries": [
+        "Peppery, great in salads."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Witch-Hazel (bundle)",
+      "type": "G",
+      "rarity": "none",
+      "value": 5,
+      "entries": [
+        "Used in healing balms."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Yarrow (bundle)",
+      "type": "G",
+      "rarity": "none",
+      "value": 4,
+      "entries": [
+        "Used in healing tonics."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Fey-Touched Acorn Scone",
+      "type": "P",
+      "rarity": "common",
+      "value": 15,
+      "entries": [
+        "Eating this scone grants the ability to understand the Sylvan language for 1 hour."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Dreambloom Seedloaf",
+      "type": "P",
+      "rarity": "common",
+      "value": 20,
+      "entries": [
+        "Infused with dreambloom petals, consuming this loaf grants a vivid prophetic dream the next time you sleep."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Emberberry Tart",
+      "type": "P",
+      "rarity": "common",
+      "value": 25,
+      "entries": [
+        "Slightly spicy, this tart warms the body and grants resistance to cold damage for 1 hour."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Sun-Kissed Honey Cake",
+      "type": "P",
+      "rarity": "common",
+      "value": 30,
+      "entries": [
+        "Blessed by a druid, eating this cake restores 1d4 HP once per long rest."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Moonlit Chamomile Tea",
+      "type": "P",
+      "rarity": "common",
+      "value": 12,
+      "entries": [
+        "Brewed under a full moon, this tea grants advantage on Wisdom (Insight) checks for 1 hour."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Frostberry Mint Tea",
+      "type": "P",
+      "rarity": "common",
+      "value": 15,
+      "entries": [
+        "Grants immunity to mild poisons and numbs pain for 1 hour."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Feywild Treacle",
+      "type": "P",
+      "rarity": "common",
+      "value": 35,
+      "entries": [
+        "A drop of this glowing treacle enhances the senses, granting darkvision (30 ft) for 1 hour."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Everchill Blackberry Punch",
+      "type": "P",
+      "rarity": "common",
+      "value": 25,
+      "entries": [
+        "Always cold to the touch, drinking it grants resistance to fire damage for 1 hour."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Sparkroot Brew",
+      "type": "P",
+      "rarity": "common",
+      "value": 40,
+      "entries": [
+        "This fizzy drink boosts the drinker’s reaction time, granting a +1 bonus to initiative for 1 hour."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Ironroot Sap (Purified)",
+      "type": "G",
+      "rarity": "common",
+      "value": 50,
+      "entries": [
+        "Used in enchanting weapons, reinforcing armor, or crafting durable items."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Whispering Moss",
+      "type": "W",
+      "rarity": "common",
+      "value": 60,
+      "entries": [
+        "This moss, when placed in the ear, grants the ability to communicate telepathically with creatures within 30 ft for 10 minutes."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Glowberry Essence (Vial)",
+      "type": "P",
+      "rarity": "common",
+      "value": 75,
+      "entries": [
+        "This bioluminescent liquid can be used as a light source or mixed into potions to enhance their potency."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Starflower Petals",
+      "type": "G",
+      "rarity": "common",
+      "value": 80,
+      "entries": [
+        "Used in alchemy, adding these petals to a healing potion increases the dice healed by one step (e.g., 2d4 → 2d6)."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Corpseberry Extract (Highly Illegal)",
+      "type": "P",
+      "rarity": "rare",
+      "value": 120,
+      "entries": [
+        "Grants visions of the past when consumed, but has a chance of causing exhaustion."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Brightblade",
+      "type": "M",
+      "rarity": "rare",
+      "value": 400000,
+      "weaponCategory": "martial",
+      "property": [
+        "F",
+        "V"
+      ],
+      "dmg1": "1d8",
+      "dmgType": "P",
+      "entries": [
+        "The weapon wielded by [[Brightblades]].",
+        "The weapon has 4 charges and regains 1d4 charges daily at dawn. As a Bonus Action while holding the weapon, you can expend 1 of its charges to cast _Blindness/Deafness_ (blindness only; spell save DC 14), provided you aren't in dim light or darkness."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Cragflame",
+      "type": "M",
+      "rarity": "legendary",
+      "value": 0,
+      "weaponCategory": "martial",
+      "property": [
+        "V"
+      ],
+      "dmg1": "1d8",
+      "dmgType": "S",
+      "bonusWeaponAttack": "+3",
+      "bonusWeaponDamage": "+3",
+      "entries": [
+        "Cragflame is crafted from a massive tooth of the Wildfire Wolf, honed down to a size manageable for little folk. It has a sigil-etched, curved blade that is sharpened on both edges, tapering to a wicked point. The hilt is simple, and cord-wrapped, while the pommel is carved into the shape of a dancing flame.",
+        "When used, a sheen of flame ripples along the sword, sigils on the blade give off a reddish light, and a magical warmth imbues its wielder. Its enchanted flames can be called upon by its wielder in times of need, forming the shape of a wolf, and it is known to burn those who try to steal it to ashes.",
+        {
+          "type": "entries",
+          "name": "Magic Weapon",
+          "entries": [
+            "You gain a +3 bonus to attack and damage rolls made with this magic sword. On a hit, the sword deals an additional 3d6 Fire damage."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Light",
+          "entries": [
+            "While you wield the sword, it sheds Bright Light in a 20-foot radius, and Dim Light for an additional 20 feet."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Warmth of Flame",
+          "entries": [
+            "While wielding the sword, you have Immunity to Fire damage and Resistance to Cold damage."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Call the Wolf",
+          "entries": [
+            "As a Magic action while wielding the sword, you can summon a fiery wolf with the statistics of a **Hell Hound** in an unoccupied space you can see within 30 feet of yourself. The creature is an ally to you and your allies. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.",
+            "Once this property of the sword is used, it can't be used again until the next dawn."
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "Burn the Thief",
+          "entries": [
+            "If you're attuned to the sword and another creature tries to attune to it, the sword casts _Disintegrate_ on that creature."
+          ]
+        }
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Moonstone Weapon",
+      "type": "M",
+      "rarity": "uncommon",
+      "value": 40000,
+      "weaponCategory": "any",
+      "entries": [
+        "Moonstone weapons drink in the last light of dusk to give their wielders an edge in combat.",
+        "The weapon has 4 charges and regains 1d4 charges daily at dawn. When you hit a creature with a melee attack using the weapon, you can expend 1 of its charges to deal an extra 1d4 damage to the target, provided you and the target are both in Dim Light or Darkness."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Feather of Flight",
+      "type": "W",
+      "rarity": "uncommon",
+      "reqAttune": true,
+      "value": 40000,
+      "entries": [
+        "As a Magic action while holding this feather, you can sprout ethereal wings for 1 hour, or until you dismiss the wings as a Bonus Action. The wings give you a Fly Speed equal to your Speed. If you are in the air when the wings disappear, you fall if nothing is holding you aloft. Once the feather is used, it can't be used again until the next dawn."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Tempest Trapper's Suit",
+      "type": "HA",
+      "rarity": "uncommon",
+      "value": 30000,
+      "ac": 18,
+      "strength": "15",
+      "stealth": true,
+      "entries": [
+        "This suit is made from fish parts, and includes a helmet made from a giant fish head.",
+        {
+          "type": "entries",
+          "name": "Underwater Adaptation",
+          "entries": [
+            "While wearing the armor, you gain the following benefits:",
+            {
+              "type": "list",
+              "items": [
+                "You can breathe air and water.",
+                "You have a Swim Speed equal to your Speed.",
+                "You have Resistance to Cold damage."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Bolas",
+      "type": "G",
+      "rarity": "none",
+      "value": 200,
+      "weight": 2,
+      "entries": [
+        "When you take the Attack action, you can replace one of your attacks with throwing a Bolas. Target a creature you can see within 60 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or have the Restrained condition until it escapes. The target succeeds automatically if it is Huge or larger. While Restrained, the target also has the Prone condition.",
+        "To escape, the target or a creature within 5 feet of it must take an action to make a DC 10 Strength (Athletics) check, freeing the Restrained creature on a success. Destroying the Bolas (AC 10; 5 HP; Immuity to Bludgeoning, Poison, and Psychic damage) also frees the Restrained creature, ending the effect."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Glider",
+      "type": "G",
+      "rarity": "none",
+      "value": 3500,
+      "weight": 25,
+      "entries": [
+        "A glider is a Medium contraption formed from a light material, such as a leaves or feathers, that allows you to glide. When you fall at least 10 feet while holding or wearing the glider, you can take a Reaction to glide horizontally in any direction a number of feet equal to your Speed, and you take 0 damage from the fall."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Lilypad",
+      "type": "G",
+      "rarity": "none",
+      "value": 100,
+      "weight": 1,
+      "entries": [
+        "Lilypads are often used on Bloomburrow as floating devices. A large lilypad on water provides enough buoyancy to keep a Medium or smaller creature afloat, provided the creature isn't wearing Heavy armor."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Arcane Focus (Bowl)",
+      "type": "AF",
+      "rarity": "none",
+      "value": 1000,
+      "weight": 3,
+      "entries": [
+        "A bowl used as an arcane focus."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Arcane Focus (Fishbone)",
+      "type": "AF",
+      "rarity": "none",
+      "value": 500,
+      "weight": 1,
+      "entries": [
+        "A fishbone used as an arcane focus."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Arcane Focus (Orb)",
+      "type": "AF",
+      "rarity": "none",
+      "value": 2000,
+      "weight": 3,
+      "entries": [
+        "An orb used as an arcane focus."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Arcane Focus (Skull)",
+      "type": "AF",
+      "rarity": "none",
+      "value": 1000,
+      "weight": 1,
+      "entries": [
+        "A skull used as an arcane focus."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Arcane Focus (Snail Shell)",
+      "type": "AF",
+      "rarity": "none",
+      "value": 500,
+      "weight": 1,
+      "entries": [
+        "A snail shell used as an arcane focus."
+      ]
+    },
+    {
+      "source": "BloomburrowCampaignSetting",
+      "name": "Arcane Focus (Wand)",
+      "type": "AF",
+      "rarity": "none",
+      "value": 1000,
+      "weight": 1,
+      "entries": [
+        "A wand used as an arcane focus."
+      ]
+    }
   ]
 }

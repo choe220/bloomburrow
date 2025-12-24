@@ -15,7 +15,7 @@ You learn the following spells at the specified druid levels. They don't count a
 | 9th | *Flame Strike, Mass Cure Wounds* |
 
 ### Level 3: Wildfire Spirit
-You can summon the primal spirit bound to your soul. As a Magic action, you can expend a spell slot or a use of Wild Shape to summon your Wildfire Spirit. It manifests in an unoccupied space that you can see within 30 feet of you and uses the [[Wildfire Spirit stat block|../../Enemies/Generated/Wildfire Spirit]]. The spirit disappears after 1 hour, when it is reduced to 0 Hit Points, when you use this feature to summon the spirit again, or when you die.
+You can summon the primal spirit bound to your soul. As a Magic action, you can expend a spell slot or a use of Wild Shape to summon your [[Wildfire Spirit]]. It manifests in an unoccupied space that you can see within 30 feet of you and uses the [[Wildfire Spirit]]. The spirit disappears after 1 hour, when it is reduced to 0 Hit Points, when you use this feature to summon the spirit again, or when you die.
 
 ### Level 6: Enhanced Bond
 Whenever you cast a spell that deals fire damage or restores hit points while your Wildfire Spirit is summoned, roll a d8. You gain a bonus to one damage or healing roll of the spell equal to the result.

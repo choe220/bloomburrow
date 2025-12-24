@@ -1,2 +1,5 @@
 ![[Lupinflower Village.png]]
 A small, peaceful community known for its abundance of vibrant lupin flowers, representing a harmonious and idyllic setting within the animalfolk society of the plane; it's a place where [[rabbitfolk]] and [[mousefolk]], live in close knit communities, tending to their land and celebrating the natural beauty of their surroundings, with the lupinflowers serving as a symbol of this harmony and prosperity.
+
+# Government
+The lord of Lupinflower Village is [[Lady Brightmeadow]], a kind and diplomatic rabbitfolk. She represents the community on the [[Valley Council]].

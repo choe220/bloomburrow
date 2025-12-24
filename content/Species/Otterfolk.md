@@ -14,6 +14,10 @@ Otterfolk prefer to spend as much time on the water as possible. They build pla
 The most popular otterfolk game and their cultural pastime is called [[Otterball|otterball]]. Otterfolk also enjoy quizzing each other on the behavior of the river or challenging each other to races and games that take advantage of currents or terrain. Once a season, each raft has a Roping, where members of a raft link up in a large circle to share news, trade, restock supplies, and engage in seasonal competitions. The open water in the middle of the linked houseboats forms a safe central area where their pups can romp and play.
 
 ![[Otterfolk2.png]]
+
+# Location in Valley
+Otterfolk are the heart of the river, living on large, interconnected rafts of houseboats that travel up and down the [[Long River]]. They are constantly on the move, but their rafts are often seen docked near major settlements like [[Fountainport]] and [[Three-Tree City]] for trade.
+
 # Otterfolk Traits
 **Creature Type:** Humanoid
 **Size:** Small (about 1.5–3 feet tall)

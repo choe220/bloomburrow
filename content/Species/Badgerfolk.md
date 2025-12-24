@@ -14,6 +14,9 @@ Badgerfolk aren't known to settle down as other [[animalfolk]] do, and are conte
 
 Badgerfolk's menacing size and reputation means they can easily find work as guards, soldiers, and mercenaries. But their natural disposition leads many to become druids at home in nature, or guides to weary travelers.
 
+# Location in Valley
+True to their solitary nature, Badgerfolk do not form large settlements. They are most often found wandering the [[Outer Woods]] and the rolling hills of [[Valley]], making their homes in secluded burrows. Some are known to patrol the edges of the [[Brambles]], keeping its dangers at bay.
+
 # Badgerfolk Traits
 **Creature Type:** Humanoid
 **Size:** Small (about 1–3 feet tall)

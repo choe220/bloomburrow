@@ -9,9 +9,12 @@ Axolotlfolk are very rare in the lands of [[Valley]], as their homeland is in th
 
 Axolotlfolk appear quite exotic to other [[animalfolk]] species, with blue or white skin and brightly colored frills.
 
-Unlike other cultures in [[Valley]], Axolotlfolk primarily face aquatic [[Calamity Beasts]] as the seasons change. [[Species/Calamity Beasts/Eluge]] is perhaps one of the biggest threats to their underwater way of life.
+Unlike other cultures in [[Valley]], Axolotlfolk primarily face aquatic [[Calamity Beasts]] as the seasons change. [[Species/Calamity Beasts/Eluge|Eluge]] is perhaps one of the biggest threats to their underwater way of life.
 
-Axolotlfolk spend most of their lives underwater. Their settlements are likely carved out of coral reefs found on the floor of deep bodies of water. They live alongside nonsapient animals such as fish and octopus, and may even tame some of the more dangerous aquatic life.
+Axolotlfolk spend most of their lives underwater. Their settlements are likely carved out of coral reefs found on the floor of deep bodies of water. They live alongside non-sapient animals such as fish and octopus, and may even tame some of the more dangerous aquatic life.
+
+# Location in Valley
+While rare, Axolotlfolk communities can be found in the deepest parts of the [[Long River]] and in the large, clear ponds of [[Valley]]. They are most commonly encountered by other [[animalfolk]] near [[Fountainport]].
 
 # Axolotlfolk Traits
 **Creature Type:** Humanoid

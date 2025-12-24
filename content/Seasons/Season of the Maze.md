@@ -1,1 +1,1 @@
-[[Creatures/Lumra]] doesn't bring a season necessarily, but instead causes great confusion in her wake as she fundamentally restructures woods and forests. She uproots homes and even entire villages, and causes explorers in her region to become hopelessly lost.
+[[Species/Calamity Beasts/Lumra]] doesn't bring a season necessarily, but instead causes great confusion in her wake as she fundamentally restructures woods and forests. She uproots homes and even entire villages, and causes explorers in her region to become hopelessly lost.

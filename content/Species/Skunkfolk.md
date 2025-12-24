@@ -12,6 +12,9 @@ One thing known for certain about Skunkfolk is their relationship with the [[Bat
 
 Skunkfolk are capable of filling many roles in [[Valley]] society, but their infamous stench precludes many [[animalfolk]] from hiring or working with the Skunkfolk. They are most often found on the fringes of society, but some become valued members of mercenary groups or guard outfits. Naturally, many Skunkfolk also find employ as assistants to [[Batfolk]] Clerics and seers.
 
+# Location in Valley
+Skunkfolk often live on the fringes of society, in small, isolated communities or as individuals living near larger settlements. They are commonly seen traveling with the [[Batfolk]] to their [[Lunar Paean]] celebrations, and can be found in the vicinity of the [[Lighttrap Spires]].
+
 # Skunkfolk Traits
 **Creature Type:** Humanoid
 **Size:** Small (about 1–1.5 feet tall)

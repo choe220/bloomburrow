@@ -14,6 +14,10 @@ Rabbitfolk lives revolve around their large families, called Fluffles, and their
 The [[Flower Garden]] is a sacred site to the rabbitfolk of Valley, and its path has been curated for centuries to ensure no flower is trampled. If a ﬂower begins to die, the petals and other parts are collected to decorate the homes of any rabbitfolk villages that witnessed the ﬂower's passing. Rabbitfolk houses are often built directly into the ground, with long burrows underneath and tall windmills designed as upside-down carrots on top.
 
 ![[Rabbitfolk 1.png]]
+
+# Location in Valley
+Rabbitfolk are the farmers of [[Valley]] and their communities are found in the most fertile lands. Large warrens can be found in the meadows near [[Goodhill]] and [[Lupinflower Village]], their traditional homeland.
+
 # Traits
 **Creature Type:** Humanoid
 **Size:** Small (about 1–1.5 feet tall)

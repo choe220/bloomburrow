@@ -11,6 +11,9 @@ Barkform are stoic and slow to communicate, if they communicate at all. They hav
 
 Barkforms are a mystery, but are unlikely to be found in [[Valley]] society. They are normally found in the untamed places of [[Valley]], or even the [[Brambles]] outside it.
 
+# Location in Valley
+Barkforms are most commonly found in ancient forests and areas where the natural magic of [[Valley]] is strong. They are often seen in the [[Outer Woods]] and the [[Brambles]], and some are known to guard the [[Calamity Graveyard]].
+
 # Barkform Traits
 **Creature Type:** Plant
 **Size:** Medium (about 1-3 feet tall) or Small (about 3–11 inches tall), chosen when you select this species

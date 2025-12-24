@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 ### Step 1: The World Concept
 
 Instead of mapping an entire planet, start with a name and a **one-sentence tone/history**.
