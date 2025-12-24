@@ -1,1 +1,1 @@
-The **Order of the Holly Leaf** are a mighty and storied group of soldiers who are the guardians of the magical sword [[History/Notable Objects/Cragflame]]. Their members include the legendary hero [[Lily Emberseed|Lily of Valley]].
+The Order of the Holly Leaf are a mighty and storied group of soldiers, comprised mostly of [[mousefolk]], who are the guardians of the magical sword [[History/Notable Objects/Cragflame|Cragflame]] and are based in [[Lupinflower Village]]. Their members include the legendary hero [[Lily Emberseed|Lily of Valley]].

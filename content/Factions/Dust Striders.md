@@ -1,0 +1,1 @@
+The Dust Striders are a hardy group, made up of mostly [[Lizardfolk|lizardfolk]], who are masters of desert survival and ambush tactics, protecting [[Cactus Point Village]] from the dangers of the surrounding biome.

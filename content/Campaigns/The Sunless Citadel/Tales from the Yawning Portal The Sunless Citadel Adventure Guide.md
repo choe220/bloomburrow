@@ -189,7 +189,7 @@ The proprietor of the Yawning Portal is something of an enigma. Blessed with a s
 
 Durnan is a man of few words. He expects to be paid for his time, and will offer insight and rumors only in return for hard cash. "We know the odds and take our chances," he says, whether he is breaking up a card game that has turned violent or refusing the pleas of adventurers trapped at the bottom of the well who are unable to pay for a ride up. Despite his stony heart, he is an excellent source of information about Undermountain and other dungeons, provided one can pay his price.
 
-![Durnan](img/adventure/TftYP/Durnan.webp)
+
 
 ***Personality Trait: Isolation.*** It's a cruel world. All people have to fend for themselves. Self-sufficiency is the only path to success.
 
@@ -275,7 +275,7 @@ If you choose summer, the hills are lush with growth, though the heat sometimes 
 
 > ##### About the Original
 >
->![](img/adventure/TftYP-TSC/000-totyp-01-book.webp)
+>
 >
 >*The Sunless Citadel*, by Bruce R. Cordell, was originally published in 2000 as a beginning adventure for the third edition of the D&D game. The adventure is widely regarded as an excellent way to introduce players to D&D. It's also a great starting experience for a new DM.
 >
@@ -392,7 +392,7 @@ Adventurers can easily climb down the knotted rope, using the wall to brace them
 
 ## Fortress Level Locations
 
-![Map 1.1: Fortress Level](img/adventure/TftYP-TSC/001-totyp-01-02.webp)![Player Version](img/adventure/TftYP-TSC/002-tsc01.webp)
+
 ### 1. Ledge
 
 >>A sandy ledge overlooks a subterranean gulf of darkness to the west. The ledge is wide but rough. Sand, rocky debris, and the bones of small animals cover it. A rough-hewn stairwell zigs and zags down the side of the ledge, descending into darkness.
@@ -531,7 +531,7 @@ If a creature moves within 5 feet of the dragon statue, a *magic mouth* spell ca
 
 (Answer: stars)
 
-![](img/adventure/TftYP-TSC/002-totyp-01-03.webp)
+
 
 #### Secret Door
 
@@ -662,7 +662,7 @@ Within the keg are five tiny sapphires (worth 10 gp each) used to bring about th
 
 Until recently, the kobolds confined a **white dragon wyrmling** in the cage and placed it under heavy guard. Those guards were not strong enough to stand against a sortie by goblins that stole the wyrmling a week ago.
 
-![](img/adventure/TftYP-TSC/003-totyp-01-04.webp)
+
 
 #### Creature
 
@@ -768,7 +768,7 @@ Normally sitting on the throne is the kobolds' leader, **Yusdrayl** (see *append
 
 **Yusdrayl** can speak to the following questions:
 
-![](img/adventure/TftYP-TSC/004-totyp-01-05.webp)
+
 
 >*Why are kobolds in this place?* "Kobolds are heir to dragons. As the mightiest among my people, I have led a brave few to this ancient holy site, where dragons were worshiped long ago." **Yusdrayl** knows nothing else about the history of the fortress, except the name of the dragon that was once revered here, which is Ashardalon.
 >
@@ -1018,7 +1018,7 @@ The wooden door is closed and locked. It can be opened by a character who succee
 >>Squalor reigns in this low-ceilinged room. A large iron spike is driven into the floor near the door, and a small iron cage is set farther back. Several sets of corroded manacles are connected to the walls,and some still bind a few crumbling skeletons.
 >>
 
-![](img/adventure/TftYP-TSC/005-totyp-01-06.webp)
+
 
 #### Creatures
 
@@ -1093,7 +1093,7 @@ Both of the wooden doors that offer access to the trophy room are closed and loc
 >>Mounted and stuffed animal heads adorn the walls. The mounting job is sloppy, and the assortment of heads includes cattle, rats, and other not particularly impressive specimens. A few grisly trophies share the wall with the animals, including a couple of kobold heads. Smashed and broken cabinets and small tables litter the periphery of the room, mute victims of some sort of rampage. A rusted iron spike stands in the center of the room, trailing a broken chain. Thin patches of frost coat sections of the walls, floor, and debris.
 >>
 
-![](img/adventure/TftYP-TSC/006-totyp-01-07.webp)
+
 
 #### Creature
 
@@ -1203,7 +1203,7 @@ Inside **Durnn**'s iron chest are 231 gp and two onyx gems (30 gp each).
 
 ## Grove Level Locations
 
-![Map 1.2: Grove Level](img/adventure/TftYP-TSC/007-totyp-01-08.webp)![Player Version](img/adventure/TftYP-TSC/009-tsc02.webp)The grove level and the fortress level connect through the shaft that leads from area 41 to 42. The following locations are identified on map 1.2.
+The grove level and the fortress level connect through the shaft that leads from area 41 to 42. The following locations are identified on map 1.2.
 
 ### 42. Central Garden
 
@@ -1220,7 +1220,7 @@ The creatures in area 43 investigate any disturbance in the garden after 3 round
 
 ### 43. The Great Hunter's Abode
 
-![](img/adventure/TftYP-TSC/008-totyp-01-09.webp)
+
 
 >>The floor of this rough cavern is stained and smells of blood and animal musk. Light from glowing fungus reveals the eastern niche, which holds a pallet of matted furs, a wide wooden board on which a variety of weapons are affixed, and a great cloak of patchy black fur hung on a slender pole. To the edge of the niche are two large nests made of hair, dry fungus, and refuse.
 >>
@@ -1663,6 +1663,6 @@ The creatures are presented in alphabetical order.
 
 ### On the Cover
 
-![As proprietor of the Yawning Portal, Durnan has heard amazing tales from adventurers of all sorts from across the multiverse, as seen in this array of characters by Tyler Jacobson.](img/adventure/TftYP/credits.webp)![See if you can identify the face and the adventure found in {@i Tales from the Yawning Portal}.](img/adventure/TftYP/credits1.webp)*(1. Gargoyle (Tomb of Horrors); 2. Tarul Var (Dead in Thay); 3. Mialee (Sunless Citadel); 4. Sir Bluto Sans Pite (White Plume Mountain); 5. Tordek (Forge of Fury); 6. Xipe, the Oni (Hidden Shrine of Tamoachan); 7. Manticore (White Plume Mountain); 8. Kieren, Chosen of Ilmater (Dead in Thay))*
+*(1. Gargoyle (Tomb of Horrors); 2. Tarul Var (Dead in Thay); 3. Mialee (Sunless Citadel); 4. Sir Bluto Sans Pite (White Plume Mountain); 5. Tordek (Forge of Fury); 6. Xipe, the Oni (Hidden Shrine of Tamoachan); 7. Manticore (White Plume Mountain); 8. Kieren, Chosen of Ilmater (Dead in Thay))*
 
 *Disclaimer: Do we really need a disclaimer to tell you that it's not our fault that your character died because you decided to climb down into a monster—and trap-filled hole in the ground?*

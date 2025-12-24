@@ -1,1 +1,1 @@
-Brightblades are an order of warriors who wield weapons made from glass, called a [[Brightblade]]. They are trained to constantly mind the sun’s position, adjusting the angle of their blade to maximize glare.
+Brightblades are an order of warriors who wield weapons made from glass, called a [[Brightblade]]. They are trained to constantly mind the sun’s position, adjusting the angle of their blade to maximize glare, and are the primary defense force of [[Oakhollow Village]].

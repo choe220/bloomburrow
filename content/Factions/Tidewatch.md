@@ -1,0 +1,1 @@
+The Tidewatch are a maritime defense force of [[frogfolk]] and other aquatic species who patrol the waters and docks of [[Fountainport]], using nets and weighted tridents.

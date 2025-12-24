@@ -2,34 +2,23 @@
 draft: "true"
 ---
 # The Sunless Citadel - A Bloomburrow Adventure
-**For the DM:** This adventure is an adaptation of "The Sunless Citadel" for a **level 5 party**. It is designed to begin immediately after the party's fight with the necromancer [[Thorne Hollow]] in the [[Calamity Graveyard]].
+**For the DM:** This adventure is an adaptation of "The Sunless Citadel"
 
 This adventure concerns a once-proud fortress that fell into the earth in an age long past. Now known as the Sunless Citadel, its echoing, broken halls house malign creatures. Evil has taken root at the citadel's core, which is deep within a subterranean garden of blighted foliage. Here a terrible tree and its dark shepherd plot in darkness.
 
 The tree, now a stump at the edge of the [[Brambles]], is shepherded by a twisted druid, [[Belak the Root Twisted]]. 
-## Part 1: The Lingering Shadow
-
-The adventure begins in the moments after [[Thorne Hollow]] has been defeated. The air in the [[Calamity Graveyard]] is still heavy with the scent of dark magic and disturbed earth. As the party catches their breath, they can examine the items they found in the necromancer's camp.
-
-Among the scattered pages of crude parchment, one item in particular draws the eye: an ink-stained scrap of parchment with a ritual diagram.
-
-> A crude sketch depicts a massive, hollowed-out tree stump, its roots twisted and exposed, resembling jagged standing stones. Arcane symbols, similar to those used in [[Thorne Hollow]]'s failed ritual, circle the drawing. Beneath it, a desperate scrawl reads: "Where the stars forgot to shine, the path is marked by bone and root. The Sleeper waits beyond the gate."
-
-As the party examines the drawing, a sudden gust of wind, colder than the rest, rustles through the graveyard. It carries with it a faint, cloyingly sweet scent, like overripe fruit and freshly dug graves. The scent seems to be coming from the direction of the [[Brambles]], a notoriously overgrown and dangerous region bordering the graveyard.
-
-If the party has a ranger, druid, or any character with a connection to nature, they can make a DC 15 Wisdom (Nature) check. On a success, they recognize the scent as unnatural, a perversion of normal decay. It's a smell of something that is both alive and dead, and it speaks of a deep-seated corruption.
-
-This note and the strange scent are the primary hooks leading the party to the [[Hollow Stump]]. [[Thorne Hollow]] was a lesser acolyte of a more powerful master, and this map points the way to his master's lair.
+## Part 1
+Getting the party together and motivated.
 
 ## Part 2: The Brambles and the Hollow Stump
 
 The scent leads the party to the edge of the [[Brambles]], a notoriously overgrown and dangerous region bordering the [[Calamity Graveyard]]. The journey through the Brambles is slow and arduous. Twisted, thorny vines as thick as a mousefolk's arm choke the path, and the air is thick with the sweet, rotten smell of the Stump. The area is unnaturally quiet.
 
-**Wilderness Encounter:** As the party travels through the Brambles, they are ambushed by **4 Blighted Twig Blights** and **2 Vine Blights**. These creatures are drawn to the life force of living beings and are servants of [[Belak the Root Twisted|Belak]]. They fight until destroyed.
+**Wilderness Encounter:** As the party travels through the Brambles, they are ambushed by **4 Twig Blights** and **2 Vine Blights**. These creatures are drawn to the life force of living beings and are servants of [[Belak the Root Twisted|Belak]]. They fight until destroyed.
 
 After an hour of difficult travel, they find the source of the smell: the **[[Hollow Stump]]**.
 
-> A colossal, petrified tree stump, wider than any living tree in Valley, juts from the earth like a broken tooth. Its bark is a sickly gray, and the air around it is thick with the same sweet, rotten smell. The ground around the stump is sunken, forming a kind of crater. A wide, dark opening, like a wound in the petrified wood, gapes in its side, leading into the darkness within. A sturdy, knotted rope, left by a previous ill-fated adventuring party, is tied to a leaning, root-like pillar of stone and hangs down into the crater.
+> A colossal, petrified tree stump, wider than any living tree in [[Valley]], juts from the earth like a broken tooth. Its bark is a sickly gray, and the air around it is thick with the same sweet, rotten smell. The ground around the stump is sunken, forming a kind of crater. A wide, dark opening, like a wound in the petrified wood, gapes in its side, leading into the darkness within. A sturdy, knotted rope, left by a previous ill-fated adventuring party, is tied to a leaning, root-like pillar of stone and hangs down into the crater.
 
 ## Hollow Stump: Fortress Level
 

@@ -1,0 +1,1 @@
+Comprised mainly of tough [[Lizardfolk|lizardfolk]] and [[batfolk]], the Stone Sentinels are expert climbers and defenders of the mountainous [[Rockface Village]], using the terrain to their advantage.

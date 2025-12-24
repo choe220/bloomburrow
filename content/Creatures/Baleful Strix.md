@@ -42,4 +42,3 @@
 >
 > Treasure: Arcana
 
-![Baleful Strix](Baleful_Strix.png)
