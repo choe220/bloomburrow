@@ -18,7 +18,7 @@
 
 You've devoted yourself to service in a [[Batfolk]] church or secluded grove. There, you perform rites that honor your ancestors and the Cosmos. You've served under a Cleric and studied religion. Thanks to your Cleric's instruction and your devotion, you've also learned how to channel a modicum of divine, cosmic power in service to your place of worship and the people who prayed there.
 
-#### [[Archivist]]
+#### Archivist
 ---
 - **Ability Scores:** Constitution, Intelligence, Wisdom
 - **Feat:** Magic Initiate (Wizard)
@@ -26,9 +26,9 @@ You've devoted yourself to service in a [[Batfolk]] church or secluded grove. Th
 - **Tool Proficiency:** Calligrapher's Supplies
 - **Equipment:** _Choose A or B:_ (A) Book (history), Calligrapher's Supplies, Parchment (5 sheets), Robe, Scroll Case, Trinket, 12 GP; or (B) 50 GP
 
-You spent your formative years in the [[The Knowledge Ossuary]], the subterranean archive of Bloomburrow's history kept by the [[Ratfolk]]. The [[Long River]] brings flotsam of artifacts and forgotten lore to the [[The Knowledge Ossuary|Ossuary]], and you've spent many a restless night studying trinkets and scrolls. Your mind was sharpened in the archive, and you're ready to put your knowledge to use.
+As an [[Archivist]] You spent your formative years in the [[The Knowledge Ossuary]], the subterranean archive of Bloomburrow's history kept by the [[Ratfolk]]. The [[Long River]] brings flotsam of artifacts and forgotten lore to the [[The Knowledge Ossuary|Ossuary]], and you've spent many a restless night studying trinkets and scrolls. Your mind was sharpened in the archive, and you're ready to put your knowledge to use.
 
-#### [[Artisan]]
+#### Artisan
 ---
 - **Ability Scores:** Strength, Dexterity, Intelligence
 - **Feat:** Crafter (see [chapter 7](https://www.gmbinder.com/share/-N5u7p3S1KlSgC6GQgBg#p54))
@@ -36,9 +36,9 @@ You spent your formative years in the [[The Knowledge Ossuary]], the subterranea
 - **Tool Proficiency:** _Choose one kind of Artisan's Tools_
 - **Equipment:** _Choose A or B:_ (A) Artisan's Tools (same as above), Book (craftsmanship), 2 Pouches, Traveler's Clothes, 7 GP; or (B) 50 GP
 
-You began mopping floors and scrubbing counters in an artisan's workshop for a few acorns per day as soon as you were strong enough to carry a bucket. When you were old enough to apprentice, you learned to create basic crafts of your own, how to barter, and you've developed a keen eye for detail and value.
+As an [[Artisan]] you began mopping floors and scrubbing counters in an artisan's workshop for a few acorns per day as soon as you were strong enough to carry a bucket. When you were old enough to apprentice, you learned to create basic crafts of your own, how to barter, and you've developed a keen eye for detail and value.
 
-#### [[Caretaker]]
+#### Caretaker
 ---
 - **Ability Scores:** Constitution, Wisdom, Charisma
 - **Feat:** Healer
@@ -46,9 +46,9 @@ You began mopping floors and scrubbing counters in an artisan's workshop for a f
 - **Tool Proficiency:** Herbalism Kit
 - **Equipment:** _Choose A or B:_ (A) Book (medicine), Healer's Kit, Herbalism Kit, Lamp, Oil (3 flasks), Quarterstaff, Traveler's Clothes, 11 GP; or (B) 50 GP
 
-You've always had a level head and a knack for helping in dire situations. Perhaps you were raised in a large, busy family, or perhaps a crisis occurred when you were young that you jumped to solve. Once older, you tutored under a Cleric or folk healer, learning how to identify healing herbs and how to apply medicine and care to all the different species of Bloomburrow.
+[[Caretaker]] you've always had a level head and a knack for helping in dire situations. Perhaps you were raised in a large, busy family, or perhaps a crisis occurred when you were young that you jumped to solve. Once older, you tutored under a Cleric or folk healer, learning how to identify healing herbs and how to apply medicine and care to all the different species of Bloomburrow.
 
-#### [[Chef]]
+#### Chef
 ---
 - **Ability Scores:** Constitution, Intelligence, Wisdom
 - **Feat:** Chef (see [chapter 7](https://www.gmbinder.com/share/-N5u7p3S1KlSgC6GQgBg#p54))
@@ -56,7 +56,7 @@ You've always had a level head and a knack for helping in dire situations. Perha
 - **Tool Proficiency:** Cook's Utensils
 - **Equipment:** _Choose A or B:_ (A) Book (food), Cook's Utensils, Fine Clothes, Oil (3 flasks), Tinderbox, Iron Pot, 6 GP; or (B) 50 GP
 
-You practically grew up in a kitchen, helping elders by preparing meals from a very young age. You've become familiar with many ingredients, and have developed an innate intuition on how to combine them into delicious dishes. Perhaps you've found work in a restaurant in a village or roadside inn.
+Being a [[Chef]] you practically grew up in a kitchen, helping elders by preparing meals from a very young age. You've become familiar with many ingredients, and have developed an innate intuition on how to combine them into delicious dishes. Perhaps you've found work in a restaurant in a village or roadside inn.
 
 #### [[Criminal]]
 ---
