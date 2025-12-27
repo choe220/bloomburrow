@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 *Weapon (Spear), very rare (requires attunement)*
 
 ---

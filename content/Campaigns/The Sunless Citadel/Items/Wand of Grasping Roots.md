@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 *Wand, uncommon (requires attunement by a spellcaster)*
 
 ---

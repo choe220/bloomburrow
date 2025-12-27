@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 *Potion, uncommon*
 
 ---

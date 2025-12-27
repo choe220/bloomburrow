@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 *Weapon (Rapier), legendary (requires attunement)*
 
 ---

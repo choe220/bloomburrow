@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 *Weapon (Longsword), uncommon (requires attunement)*
 
 ---

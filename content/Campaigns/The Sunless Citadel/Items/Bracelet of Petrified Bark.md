@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 *Wondrous item, very rare (requires attunement)*
 
 ---
