@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 # Magic Items of the Sunless Citadel
 
 The Sunless Citadel, a place of shadow and blight, holds secrets and treasures for those brave enough to explore its depths. The items listed below are some of the magical artifacts that can be discovered within its crumbling walls and twisted gardens.
