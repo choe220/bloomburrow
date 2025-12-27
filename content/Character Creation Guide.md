@@ -13,24 +13,24 @@ Some of the playable species include:
 -   [[Species/Badgerfolk|Badgerfolk]]: Solitary, peaceable, and formidable wanderers, often misunderstood for their fierce loyalty and strength.
 -   [[Species/Batfolk|Batfolk]]: Nocturnal guardians and astronomers who read the cosmos and protect the vulnerable with sound-based magic.
 -   [[Species/Beaverfolk|Beaverfolk]]: Industrious and community-oriented engineers who shape the land by building dams and lodges.
--   [[Species/Birdfolk|Birdfolk]]: Chivalrous and idealistic leaders who connect the [[Valley]]'s communities and master the art of flight.
+-   [[Species/Birdfolk|Birdfolk]]: Chivalrous and idealistic leaders who connect [[Valley]]'s communities and master the art of flight.
 -   [[Species/Foxfolk|Foxfolk]]: Witty, charming, and adaptable tricksters known for their intelligence and silver tongues.
--   [[Species/Frogfolk|Frogfolk]]: Curious and intelligent water mages and augurs who can glimpse the future to protect the [[Valley]].
+-   [[Species/Frogfolk|Frogfolk]]: Curious and intelligent water mages and augurs who can glimpse the future to protect [[Valley]].
 -   [[Species/Hedgehogs|Hedgehogs]]: Cautious, gentle, and unassuming gardeners and herbalists with a surprisingly prickly defense.
 -   [[Species/Lizardfolk|Lizardfolk]]: Passionate and resilient artists and fire mages who worship the cycle of creation and destruction.
--   [[Species/Minkfolk|Minkfolk]]: Bold, curious, and fiercely territorial masters of the [[Valley]]'s smaller waterways and wetlands.
+-   [[Species/Minkfolk|Minkfolk]]: Bold, curious, and fiercely territorial masters of [[Valley]]'s smaller waterways and wetlands.
 -   [[Species/Molefolk|Molefolk]]: Quiet, industrious, and steadfast miners and lore-keepers of the subterranean world.
 -   [[Species/Mousefolk|Mousefolk]]: Plucky, loyal, and sociable fighters who value family and adventure in equal measure.
 -   [[Species/Otterfolk|Otterfolk]]: Playful, thrill-seeking, and adventurous river-dwellers who chase storms and live on houseboats.
 -   [[Species/Possumfolk|Possumfolk]]: Jovial and nomadic explorers who wander the wilds with their families, uncovering hidden mysteries.
--   [[Species/Rabbitfolk|Rabbitfolk]]: Stalwart, hospitable, and community-focused farmers and chefs who provide for the [[Valley]].
+-   [[Species/Rabbitfolk|Rabbitfolk]]: Stalwart, hospitable, and community-focused farmers and chefs who provide for [[Valley]].
 -   [[Species/Raccoonfolk|Raccoonfolk]]: Free-spirited wanderers and collectors who are proficient with improvised weapons and trash magic.
 -   [[Species/Ratfolk|Ratfolk]]: Reclusive and thoughtful keepers of secrets and ancient relics who form psychic bonds with insects.
 -   [[Species/Skunkfolk|Skunkfolk]]: Infamous for their powerful musk, these folk often live on the fringes, sharing a special bond with [[batfolk]].
 -   [[Species/Snakefolk|Snakefolk]]: Rarely seen and often feared, these large, powerful folk possess a venomous bite and constricting grip.
 -   [[Species/Squirrelfolk|Squirrelfolk]]: Morbid and practical stewards of the life-death cycle who preserve food and ritually bury the dead.
 -   [[Species/Turtlefolk|Turtlefolk]]: Incredibly long-lived, patient, and methodical solitaires who possess ancient wisdom and a tough natural defense.
--   [[Species/Weaselfolk|Weaselfolk]]: Sleek, tenacious, and fiercely loyal hunters who are masters of adaptation and survival in the wilder parts of the [[Valley]].
+-   [[Species/Weaselfolk|Weaselfolk]]: Sleek, tenacious, and fiercely loyal hunters who are masters of adaptation and survival in the wilder parts of [[Valley]].
 
 ## 2. Choose Your Home Settlement
 
