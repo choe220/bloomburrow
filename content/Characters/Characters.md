@@ -1,3 +1,8 @@
+# Character Sheets
+[[charsheet-bloomburrow.pdf]]
+[[Bloomburrow Character Sheet.pdf]]
+
+# Old Characters
 [[Gloamripple - Frogfolk Druid.pdf]]
 ![[frog druid.png]]
 
